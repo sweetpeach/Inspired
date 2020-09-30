@@ -1,0 +1,1002 @@
+rec_survey_id	role	recommender_id	familiar_with_movie	knowledgeable	age_group	gender	race	degree	job	marital_status	political_view	religion	seeker_id	date
+first_batch_0	RECOMMENDER	user_0	Agree	Agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Atheist	user_1	2019-11-29 11:31:00.659806
+first_batch_1	RECOMMENDER	user_2	Strongly agree	Strongly agree	35 - 44	Female	African	High School/GED	Employed	Never been married	Liberal	Atheist	user_3	2019-11-29 11:44:29.859838
+first_batch_2	RECOMMENDER	user_4	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_5	2019-11-29 11:50:39.221438
+first_batch_3	RECOMMENDER	user_6	Strongly agree	Agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_7	2019-11-29 11:58:58.211656
+first_batch_5	RECOMMENDER	user_8	Agree	Agree	35 - 44	Male	Caucasian	Vocational Training	Employed	Never been married	Liberal	Atheist	user_9	2019-11-29 12:03:08.981205
+first_batch_6	RECOMMENDER	user_10	Disagree	Disagree	45 - 54	Female	Caucasian	High School/GED	Employed	Divorced	Conservative	Roman Catholic	user_11	2019-11-29 12:03:44.103785
+first_batch_7	RECOMMENDER	user_0	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Atheist	user_12	2019-11-29 12:33:39.807725
+first_batch_8	RECOMMENDER	user_13	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Other	user_14	2019-11-29 12:40:18.607412
+first_batch_9	RECOMMENDER	user_15	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	Associate Degree	Employed	Living with partner	Moderate	Protestant	user_16	2019-11-29 12:41:06.129704
+first_batch_10	RECOMMENDER	user_17	Agree	Agree	35 - 44	Male	African	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_18	2019-11-29 12:53:08.117754
+first_batch_11	RECOMMENDER	user_19	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Other	user_20	2019-11-29 13:17:28.964985
+first_batch_12	RECOMMENDER	user_21	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	University Student	Married	Liberal	Protestant	user_8	2019-11-29 13:34:24.930613
+first_batch_13	RECOMMENDER	user_22	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Protestant	user_23	2019-11-29 13:48:37.450964
+first_batch_14	RECOMMENDER	user_24	Strongly agree	Strongly agree	35 - 44	Female	African	High School/GED	Homemaker	Married	Moderate	Other	user_25	2019-11-29 13:51:13.547977
+first_batch_15	RECOMMENDER	user_26	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Other	user_27	2019-11-29 13:53:35.063020
+first_batch_16	RECOMMENDER	user_28	Agree	Agree	45 - 54	Male	Caucasian	Associate Degree	Retired	Never been married	Conservative	Protestant	user_29	2019-11-29 13:55:25.622982
+first_batch_17	RECOMMENDER	user_30	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Atheist	user_31	2019-11-29 14:11:45.842409
+first_batch_18	RECOMMENDER	user_32	Strongly agree	Strongly agree	35 - 44	Male	South Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Buddhist	user_33	2019-11-29 14:13:54.657279
+first_batch_19	RECOMMENDER	user_34	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_35	2019-11-29 14:19:18.807313
+first_batch_20	RECOMMENDER	user_36	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Married	Conservative	Roman Catholic	user_37	2019-11-29 14:38:17.764097
+first_batch_21	RECOMMENDER	user_38	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_39	2019-11-29 14:39:44.150692
+first_batch_22	RECOMMENDER	user_26	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Other	user_40	2019-11-29 15:04:49.088453
+first_batch_23	RECOMMENDER	user_6	Strongly agree	Strongly agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_26	2019-11-29 15:48:38.363282
+first_batch_24	RECOMMENDER	user_41	Agree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Jewish	user_42	2019-11-29 16:01:59.410256
+first_batch_25	RECOMMENDER	user_43	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Liberal	Atheist	user_44	2019-11-28 11:08:27.657840
+first_batch_26	RECOMMENDER	user_0	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Atheist	user_45	2019-11-28 11:12:59.112034
+first_batch_27	RECOMMENDER	user_46	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	No Degree	Employed	Married	Liberal	Protestant	user_47	2019-11-28 11:14:25.460852
+first_batch_28	RECOMMENDER	user_48	Agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Mormon	user_49	2019-11-28 11:54:38.459973
+first_batch_30	RECOMMENDER	user_12	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Separated	Liberal	Atheist	user_50	2019-11-28 12:46:08.520984
+first_batch_31	RECOMMENDER	user_51	Neither agree nor disagree	Agree	25 - 34	Female	Caucasian	Master	Employed	Separated	Moderate	Protestant	user_52	2019-11-28 13:08:08.792723
+first_batch_32	RECOMMENDER	user_53	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Roman Catholic	user_54	2019-11-28 13:50:47.771351
+first_batch_33	RECOMMENDER	user_55	Strongly agree	Strongly agree	45 - 54	Female	Other	Associate Degree	Employed	Never been married	Liberal	Other	user_56	2019-11-28 14:37:24.064036
+first_batch_34	RECOMMENDER	user_57	Agree	Agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Liberal	Other	user_58	2019-11-28 15:08:35.325658
+first_batch_35	RECOMMENDER	user_59	Agree	Agree	55 - 74	Male	Caucasian	Master	Employed	Living with partner	Liberal	Roman Catholic	user_60	2019-11-28 16:38:50.092130
+first_batch_36	RECOMMENDER	user_61	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Married	Liberal	Other	user_62	2019-11-28 17:37:57.047447
+first_batch_37	RECOMMENDER	user_63	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_64	2019-11-28 17:42:38.170074
+first_batch_38	RECOMMENDER	user_65	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Separated	Moderate	Protestant	user_66	2019-11-28 17:43:02.204571
+first_batch_39	RECOMMENDER	user_67	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_68	2019-11-28 18:24:13.963709
+first_batch_40	RECOMMENDER	user_69	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	No Degree	Unable to Work	Married	Conservative	Roman Catholic	user_70	2019-12-05 16:57:27.410243
+first_batch_41	RECOMMENDER	user_71	Agree	Agree	18 - 24	Female	African	Associate Degree	University Student	Never been married	Conservative	Protestant	user_72	2019-12-05 17:01:25.336036
+first_batch_42	RECOMMENDER	user_73	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_5	2019-12-05 17:22:42.235107
+first_batch_43	RECOMMENDER	user_74	Strongly agree	Strongly agree	45 - 54	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Divorced	Moderate	Protestant	user_75	2019-12-05 17:24:23.130523
+first_batch_44	RECOMMENDER	user_76	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	Associate Degree	Employed	Divorced	Moderate	Roman Catholic	user_77	2019-12-05 17:45:03.712281
+first_batch_45	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_79	2019-12-05 18:04:10.922830
+first_batch_46	RECOMMENDER	user_80	Neither agree nor disagree	Neither agree nor disagree	18 - 24	Male	African	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_81	2019-12-05 18:25:50.500096
+first_batch_47	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_82	2019-12-05 18:32:33.922649
+first_batch_48	RECOMMENDER	user_83	Agree	Agree	25 - 34	Male	Native American/American Indian/Alaskan Native	Master	Employed	Married	Moderate	Atheist	user_84	2019-12-05 19:58:57.096812
+first_batch_49	RECOMMENDER	user_85	Agree	Agree	35 - 44	Female	South Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Hindu	user_86	2019-12-05 20:07:38.609946
+first_batch_50	RECOMMENDER	user_87	Agree	Agree	25 - 34	Female	Other	High School/GED	Employed	Never been married	Conservative	Protestant	user_88	2019-12-05 22:09:09.706057
+first_batch_51	RECOMMENDER	user_89	Agree	Agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Mormon	user_90	2019-12-05 22:34:14.594653
+first_batch_52	RECOMMENDER	user_91	Agree	Agree	25 - 34	Other	Other	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_87	2019-12-05 22:41:25.796132
+first_batch_53	RECOMMENDER	user_92	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_93	2019-12-06 05:15:40.930260
+first_batch_54	RECOMMENDER	user_94	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Moderate	Orthodox	user_95	2019-12-06 06:36:19.508123
+first_batch_55	RECOMMENDER	user_96	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_97	2019-12-06 07:02:58.717897
+first_batch_56	RECOMMENDER	user_98	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_99	2019-12-06 07:22:46.918997
+first_batch_57	RECOMMENDER	user_100	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Liberal	Other	user_101	2019-12-06 07:37:44.224774
+first_batch_58	RECOMMENDER	user_102	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Divorced	Conservative	Protestant	user_103	2019-12-06 09:22:09.130601
+first_batch_59	RECOMMENDER	user_104	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_105	2019-12-06 09:48:59.852705
+first_batch_60	RECOMMENDER	user_106	Strongly agree	Agree	25 - 34	Female	Other	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Protestant	user_107	2019-12-06 10:06:44.578665
+first_batch_61	RECOMMENDER	user_108	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Atheist	user_109	2019-12-06 10:21:23.762524
+first_batch_62	RECOMMENDER	user_110	Disagree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_111	2019-12-06 10:22:10.631573
+first_batch_63	RECOMMENDER	user_112	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Living with partner	Moderate	Other	user_113	2019-12-06 10:30:49.477362
+first_batch_64	RECOMMENDER	user_114	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_115	2019-12-06 10:52:07.218780
+first_batch_65	RECOMMENDER	user_1	Neither agree nor disagree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Never been married	Moderate	Other	user_116	2019-12-06 10:56:17.262239
+first_batch_66	RECOMMENDER	user_117	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_118	2019-12-06 11:08:02.587919
+first_batch_67	RECOMMENDER	user_119	Agree	Agree	25 - 34	Female	Hispanic/Latino	Vocational Training	Homemaker	Married	Liberal	Other	user_120	2019-12-06 11:37:48.024331
+first_batch_68	RECOMMENDER	user_121	Disagree	Disagree	45 - 54	Female	Caucasian	High School/GED	Employed	Separated	Liberal	Other	user_122	2019-12-06 11:39:03.773416
+first_batch_69	RECOMMENDER	user_123	Strongly agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_124	2019-12-06 11:42:26.069609
+first_batch_70	RECOMMENDER	user_125	Strongly agree	Strongly agree	45 - 54	Female	African	Master	Employed	Married	Liberal	Muslim	user_126	2019-12-06 12:19:01.867753
+first_batch_71	RECOMMENDER	user_127	Agree	Agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_128	2019-11-27 09:13:00.827620
+first_batch_72	RECOMMENDER	user_129	Agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Married	Moderate	Roman Catholic	user_130	2019-11-27 09:31:45.032674
+first_batch_73	RECOMMENDER	user_131	Agree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_132	2019-11-27 09:43:13.400348
+first_batch_74	RECOMMENDER	user_133	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Protestant	user_134	2019-11-27 09:45:12.599003
+first_batch_75	RECOMMENDER	user_135	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Protestant	user_136	2019-11-27 09:57:27.400552
+first_batch_76	RECOMMENDER	user_137	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Atheist	user_138	2019-11-27 10:38:46.871478
+first_batch_77	RECOMMENDER	user_139	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Jewish	user_140	2019-11-27 11:16:14.629675
+first_batch_78	RECOMMENDER	user_141	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_142	2019-11-27 11:16:43.164400
+first_batch_79	RECOMMENDER	user_143	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Atheist	user_144	2019-11-27 11:46:22.379305
+first_batch_80	RECOMMENDER	user_145	Disagree	Disagree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Divorced	Moderate	Protestant	user_146	2019-11-27 11:58:54.851200
+first_batch_81	RECOMMENDER	user_147	Agree	Agree	35 - 44	Female	Hispanic/Latino	High School/GED	Employed	Never been married	Liberal	Atheist	user_148	2019-11-27 12:29:16.815738
+first_batch_83	RECOMMENDER	user_149	Agree	Agree	25 - 34	Male	South Asian	Master	Employed	Married	Moderate	Hindu	user_150	2019-11-27 12:54:02.884147
+first_batch_84	RECOMMENDER	user_151	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_152	2019-11-27 13:22:16.195922
+first_batch_85	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_153	2019-12-02 20:28:40.292650
+first_batch_86	RECOMMENDER	user_154	Agree	Agree	45 - 54	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Atheist	user_78	2019-12-02 20:49:09.738043
+first_batch_87	RECOMMENDER	user_155	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Living with partner	Conservative	Protestant	user_156	2019-12-02 20:58:03.773258
+first_batch_88	RECOMMENDER	user_157	Neither agree nor disagree	Neither agree nor disagree	55 - 74	Female	Caucasian	Master	Employed	Living with partner	Liberal	Protestant	user_158	2019-12-02 21:00:51.090377
+first_batch_89	RECOMMENDER	user_159	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Conservative	Roman Catholic	user_157	2019-12-02 21:36:47.191164
+first_batch_90	RECOMMENDER	user_160	Strongly agree	Strongly agree	35 - 44	Female	African	Bachelor/4-year Degree	Employed	Divorced	Liberal	Protestant	user_161	2019-12-02 21:48:10.892744
+first_batch_91	RECOMMENDER	user_162	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Liberal	Other	user_163	2019-12-02 21:56:36.801207
+first_batch_92	RECOMMENDER	user_164	Strongly agree	Strongly agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Buddhist	user_104	2019-12-02 22:39:35.741006
+first_batch_93	RECOMMENDER	user_165	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_166	2019-12-03 02:21:33.541818
+first_batch_94	RECOMMENDER	user_167	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Other	user_168	2019-12-03 04:58:55.706833
+first_batch_95	RECOMMENDER	user_169	Neither agree nor disagree	Neither agree nor disagree	35 - 44	Male	African	Associate Degree	University Student	Married	Moderate	Muslim	user_170	2019-12-03 05:15:30.121044
+first_batch_96	RECOMMENDER	user_171	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_172	2019-12-03 05:39:59.734387
+first_batch_97	RECOMMENDER	user_6	Strongly agree	Strongly agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_173	2019-12-03 05:44:40.250524
+first_batch_99	RECOMMENDER	user_174	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	No Degree	Employed	Married	Liberal	Protestant	user_175	2019-12-03 06:30:49.393636
+first_batch_100	RECOMMENDER	user_176	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_177	2019-12-03 06:40:53.049224
+first_batch_101	RECOMMENDER	user_178	Strongly agree	Strongly agree	25 - 34	Female	African	High School/GED	Employed	Married	Conservative	Other	user_167	2019-12-03 06:54:51.101544
+first_batch_102	RECOMMENDER	user_179	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Married	Liberal	Atheist	user_180	2019-12-03 07:00:56.109553
+first_batch_103	RECOMMENDER	user_181	Agree	Agree	35 - 44	Female	African	Master	University Student	Married	Moderate	Protestant	user_182	2019-12-03 07:16:30.907358
+first_batch_104	RECOMMENDER	user_183	Strongly agree	Strongly agree	18 - 24	Male	South Asian	Doctorate	Employed	Never been married	Moderate	Muslim	user_184	2019-12-03 07:23:16.285068
+first_batch_105	RECOMMENDER	user_185	Strongly agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Married	Liberal	Protestant	user_186	2019-12-03 07:38:18.771357
+first_batch_106	RECOMMENDER	user_187	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_188	2019-12-03 07:43:01.393045
+first_batch_107	RECOMMENDER	user_80	Agree	Agree	18 - 24	Male	African	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_189	2019-12-03 07:52:21.071921
+first_batch_108	RECOMMENDER	user_190	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Moderate	Roman Catholic	user_191	2019-12-03 08:01:10.686062
+first_batch_109	RECOMMENDER	user_192	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_193	2019-12-03 08:03:33.294296
+first_batch_110	RECOMMENDER	user_194	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Married	Liberal	Atheist	user_195	2019-12-03 08:06:27.775453
+first_batch_111	RECOMMENDER	user_196	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Employed	Married	Conservative	Protestant	user_197	2019-12-03 08:09:29.869248
+first_batch_112	RECOMMENDER	user_198	Agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Liberal	Roman Catholic	user_199	2019-12-03 08:27:43.733685
+first_batch_113	RECOMMENDER	user_200	Agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Never been married	Liberal	Atheist	user_201	2019-12-03 12:51:28.530287
+first_batch_114	RECOMMENDER	user_202	Strongly agree	Strongly agree	25 - 34	Female	East Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_203	2019-12-03 12:59:47.784240
+first_batch_117	RECOMMENDER	user_204	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Living with partner	Liberal	Other	user_205	2019-12-03 13:21:10.922804
+first_batch_118	RECOMMENDER	user_149	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	South Asian	Master	Employed	Married	Moderate	Hindu	user_206	2019-12-03 13:25:00.685724
+first_batch_119	RECOMMENDER	user_207	Strongly agree	Strongly agree	35 - 44	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_208	2019-12-03 13:37:14.775855
+first_batch_120	RECOMMENDER	user_209	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_5	2019-12-03 13:50:16.132722
+first_batch_121	RECOMMENDER	user_210	Strongly agree	Strongly agree	25 - 34	Female	Other	Associate Degree	Non-university student	Living with partner	Liberal	Other	user_211	2019-12-03 14:03:08.053573
+first_batch_122	RECOMMENDER	user_212	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_213	2019-12-03 14:09:24.231658
+first_batch_123	RECOMMENDER	user_214	Agree	Agree	25 - 34	Male	East Asian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Never been married	Liberal	Roman Catholic	user_215	2019-12-03 14:20:50.246221
+first_batch_124	RECOMMENDER	user_216	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_217	2019-12-03 14:25:49.561305
+first_batch_125	RECOMMENDER	user_218	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Atheist	user_219	2019-12-03 14:33:27.460635
+first_batch_126	RECOMMENDER	user_77	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_220	2019-12-03 14:48:58.984283
+first_batch_127	RECOMMENDER	user_221	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Retired	Married	Moderate	Protestant	user_222	2019-12-03 14:56:58.974171
+first_batch_128	RECOMMENDER	user_223	Agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_224	2019-12-03 15:12:15.484730
+first_batch_129	RECOMMENDER	user_225	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Atheist	user_226	2019-12-03 15:29:29.605374
+first_batch_130	RECOMMENDER	user_227	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Moderate	Roman Catholic	user_228	2019-12-03 15:42:32.514141
+first_batch_131	RECOMMENDER	user_229	Agree	Agree	18 - 24	Female	Pacific Islander	High School/GED	Employed	Never been married	Moderate	Other	user_230	2019-12-03 15:53:05.381415
+first_batch_132	RECOMMENDER	user_231	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Married	Moderate	Other	user_77	2019-12-03 15:57:11.998047
+first_batch_133	RECOMMENDER	user_232	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Moderate	Other	user_233	2019-12-03 16:02:48.228409
+first_batch_134	RECOMMENDER	user_234	Strongly agree	Strongly agree	25 - 34	Male	African	Associate Degree	Employed	Never been married	Moderate	Other	user_235	2019-12-03 16:14:27.530224
+first_batch_135	RECOMMENDER	user_236	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Non-university student	Married	Liberal	Atheist	user_237	2019-12-03 16:22:24.472475
+first_batch_136	RECOMMENDER	user_238	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_239	2019-12-03 16:30:18.470395
+first_batch_137	RECOMMENDER	user_240	Strongly agree	Strongly agree	25 - 34	Female	East Asian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_241	2019-12-03 16:42:13.612392
+first_batch_138	RECOMMENDER	user_242	Agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_243	2019-12-03 16:43:24.311163
+first_batch_139	RECOMMENDER	user_244	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Liberal	Protestant	user_245	2019-12-03 16:58:14.478210
+first_batch_140	RECOMMENDER	user_246	Strongly agree	Strongly agree	18 - 24	Male	Southeast Asian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_247	2019-12-03 17:09:49.059817
+first_batch_141	RECOMMENDER	user_248	Agree	Agree	18 - 24	Male	Pacific Islander	Associate Degree	Employed	Never been married	Moderate	Protestant	user_249	2019-12-03 17:13:08.664673
+first_batch_142	RECOMMENDER	user_250	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_251	2019-12-03 17:25:32.365390
+first_batch_143	RECOMMENDER	user_80	Agree	Agree	18 - 24	Male	African	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_252	2019-12-03 17:30:00.116378
+first_batch_144	RECOMMENDER	user_253	Disagree	Agree	18 - 24	Female	African	High School/GED	Employed	Living with partner	Liberal	Other	user_254	2019-12-03 17:33:13.069858
+first_batch_145	RECOMMENDER	user_255	Strongly agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_256	2019-12-03 17:48:44.291173
+first_batch_146	RECOMMENDER	user_257	Agree	Agree	55 - 74	Male	Caucasian	Vocational Training	Non-university student	Married	Moderate	Roman Catholic	user_258	2019-12-03 18:54:45.197915
+first_batch_147	RECOMMENDER	user_259	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Buddhist	user_260	2019-12-03 18:56:07.707933
+first_batch_148	RECOMMENDER	user_261	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_262	2019-12-03 18:57:58.224071
+first_batch_149	RECOMMENDER	user_263	Agree	Agree	18 - 24	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Protestant	user_264	2019-12-03 19:25:38.185345
+first_batch_150	RECOMMENDER	user_265	Agree	Agree	18 - 24	Female	Caucasian	Associate Degree	Employed	Married	Liberal	Mormon	user_266	2019-12-03 20:11:47.476722
+first_batch_151	RECOMMENDER	user_267	Strongly agree	Agree	45 - 54	Female	African	"Professional Postgraduate Degree (Medical, Law, etc)"	Retired	Married	Moderate	Other	user_157	2019-12-03 20:33:50.806264
+first_batch_152	RECOMMENDER	user_268	Agree	Agree	25 - 34	Male	Hispanic/Latino	High School/GED	Employed	Married	Moderate	Roman Catholic	user_269	2019-12-03 21:01:17.610570
+first_batch_153	RECOMMENDER	user_270	Agree	Strongly agree	45 - 54	Female	East Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_271	2019-12-03 21:25:34.683633
+first_batch_154	RECOMMENDER	user_272	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	University Student	Married	Moderate	Atheist	user_273	2019-12-03 21:52:21.637534
+first_batch_155	RECOMMENDER	user_274	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Other	user_275	2019-12-03 22:02:03.146003
+first_batch_156	RECOMMENDER	user_31	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_274	2019-12-03 23:06:53.818475
+first_batch_157	RECOMMENDER	user_276	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_85	2019-12-03 23:12:31.962082
+first_batch_158	RECOMMENDER	user_277	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Never been married	Liberal	Jewish	user_278	2019-12-03 23:26:32.619089
+first_batch_159	RECOMMENDER	user_279	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_280	2019-12-04 03:08:32.617163
+first_batch_160	RECOMMENDER	user_281	Strongly agree	Strongly agree	25 - 34	Male	Native American/American Indian/Alaskan Native	Master	Employed	Married	Conservative	Roman Catholic	user_167	2019-12-04 04:09:58.686467
+first_batch_161	RECOMMENDER	user_282	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Living with partner	Moderate	Other	user_172	2019-12-04 05:28:21.643076
+first_batch_162	RECOMMENDER	user_283	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Married	Liberal	Atheist	user_284	2019-12-04 05:32:11.699022
+first_batch_163	RECOMMENDER	user_285	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Protestant	user_286	2019-12-04 05:38:22.717706
+first_batch_164	RECOMMENDER	user_287	Disagree	Strongly disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_288	2019-12-04 06:00:12.636071
+first_batch_165	RECOMMENDER	user_285	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Protestant	user_289	2019-12-04 06:07:07.423207
+first_batch_166	RECOMMENDER	user_290	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Master	Employed	Divorced	Moderate	Protestant	user_291	2019-12-04 06:09:12.418215
+first_batch_167	RECOMMENDER	user_292	Disagree	Disagree	25 - 34	Female	Caucasian	High School/GED	Employed	Living with partner	Liberal	Other	user_69	2019-12-04 06:42:11.319537
+first_batch_168	RECOMMENDER	user_293	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Retired	Married	Liberal	Other	user_165	2019-12-04 06:53:44.607641
+first_batch_169	RECOMMENDER	user_294	Agree	Strongly agree	35 - 44	Male	Caucasian	High School/GED	Unable to Work	Never been married	Liberal	Protestant	user_295	2019-12-04 07:11:35.639832
+first_batch_170	RECOMMENDER	user_296	Strongly agree	Strongly agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Atheist	user_297	2019-12-04 07:27:42.609389
+first_batch_171	RECOMMENDER	user_298	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_299	2019-12-04 07:37:10.674843
+first_batch_172	RECOMMENDER	user_300	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Divorced	Liberal	Jewish	user_301	2019-12-04 07:46:14.518863
+first_batch_173	RECOMMENDER	user_302	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_303	2019-12-04 07:57:03.253983
+first_batch_174	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_112	2019-12-04 08:08:17.314326
+first_batch_176	RECOMMENDER	user_305	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_306	2019-12-04 08:19:20.482929
+first_batch_177	RECOMMENDER	user_307	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Married	Liberal	Roman Catholic	user_308	2019-12-04 08:22:30.638858
+first_batch_178	RECOMMENDER	user_309	Agree	Strongly agree	18 - 24	Female	African	High School/GED	Employed	Never been married	Liberal	Atheist	user_310	2019-12-04 08:27:07.467767
+first_batch_179	RECOMMENDER	user_311	Strongly agree	Strongly agree	25 - 34	Female	African	High School/GED	Homemaker	Never been married	Conservative	Other	user_312	2019-12-02 00:20:03.348437
+first_batch_180	RECOMMENDER	user_313	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	University Student	Married	Conservative	Other	user_314	2019-12-02 00:34:05.667249
+first_batch_181	RECOMMENDER	user_203	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_315	2019-12-02 00:39:07.616117
+first_batch_182	RECOMMENDER	user_316	Agree	Agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_42	2019-12-02 02:31:26.771609
+first_batch_183	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_275	2019-12-02 02:54:16.245064
+first_batch_184	RECOMMENDER	user_115	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Muslim	user_317	2019-12-02 03:19:16.531992
+first_batch_185	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_318	2019-12-02 03:20:24.087661
+first_batch_186	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_319	2019-12-02 03:33:58.406009
+first_batch_187	RECOMMENDER	user_320	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Atheist	user_321	2019-12-02 09:45:37.818314
+first_batch_188	RECOMMENDER	user_322	Strongly agree	Strongly agree	25 - 34	Male	African	Master	Employed	Never been married	Liberal	Atheist	user_323	2019-12-02 09:47:03.673573
+first_batch_189	RECOMMENDER	user_324	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Moderate	Atheist	user_325	2019-12-02 09:53:49.286790
+first_batch_190	RECOMMENDER	user_130	Agree	Neither agree nor disagree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Moderate	Protestant	user_326	2019-12-02 09:59:10.026342
+first_batch_191	RECOMMENDER	user_327	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Married	Conservative	Jewish	user_328	2019-12-02 09:59:56.385145
+first_batch_192	RECOMMENDER	user_329	Agree	Agree	35 - 44	Female	Hispanic/Latino	Associate Degree	Employed	Never been married	Conservative	Other	user_294	2019-12-02 10:06:58.095338
+first_batch_193	RECOMMENDER	user_330	Strongly agree	Strongly agree	35 - 44	Female	East Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Buddhist	user_192	2019-12-02 10:07:46.204075
+first_batch_194	RECOMMENDER	user_331	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Vocational Training	Employed	Married	Conservative	Protestant	user_332	2019-12-02 10:08:22.844010
+first_batch_195	RECOMMENDER	user_289	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Employed	Married	Conservative	Protestant	user_333	2019-12-02 10:16:47.741246
+first_batch_196	RECOMMENDER	user_334	Disagree	Disagree	25 - 34	Female	African	Master	Employed	Never been married	Liberal	Protestant	user_335	2019-12-02 10:20:07.860274
+first_batch_197	RECOMMENDER	user_336	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	Employed	Never been married	Liberal	Atheist	user_337	2019-12-02 10:23:36.664583
+first_batch_198	RECOMMENDER	user_338	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Associate Degree	Employed	Never been married	Conservative	Roman Catholic	user_339	2019-12-02 10:28:55.916703
+first_batch_199	RECOMMENDER	user_340	Strongly agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Buddhist	user_341	2019-12-02 10:30:56.188372
+first_batch_200	RECOMMENDER	user_342	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Homemaker	Married	Conservative	Other	user_343	2019-12-02 10:41:18.563226
+first_batch_201	RECOMMENDER	user_344	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_345	2019-12-02 10:46:13.264140
+first_batch_202	RECOMMENDER	user_346	Strongly agree	Strongly agree	35 - 44	Male	Southeast Asian	Associate Degree	Employed	Married	Conservative	Protestant	user_347	2019-12-02 10:51:10.094591
+first_batch_203	RECOMMENDER	user_348	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_349	2019-12-02 10:58:59.790137
+first_batch_204	RECOMMENDER	user_304	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_350	2019-12-02 11:51:38.115602
+first_batch_205	RECOMMENDER	user_36	Agree	Agree	35 - 44	Male	Hispanic/Latino	Vocational Training	Employed	Married	Moderate	Other	user_351	2019-12-02 11:59:34.435691
+first_batch_206	RECOMMENDER	user_352	Agree	Agree	35 - 44	Female	African	Associate Degree	Employed	Never been married	Moderate	Other	user_353	2019-12-02 12:00:48.215625
+first_batch_207	RECOMMENDER	user_304	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_354	2019-12-02 12:01:14.522506
+first_batch_208	RECOMMENDER	user_355	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Moderate	Protestant	user_356	2019-12-02 12:15:02.337435
+first_batch_209	RECOMMENDER	user_357	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_358	2019-12-02 12:30:36.603103
+first_batch_210	RECOMMENDER	user_5	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Divorced	Moderate	Protestant	user_304	2019-12-02 12:36:09.670930
+first_batch_211	RECOMMENDER	user_359	Neither agree nor disagree	Disagree	18 - 24	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_360	2019-12-02 12:43:32.069010
+first_batch_212	RECOMMENDER	user_361	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Unable to Work	Married	Liberal	Protestant	user_362	2019-12-02 12:44:56.815536
+first_batch_213	RECOMMENDER	user_363	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	High School/GED	Employed	Separated	Moderate	Protestant	user_364	2019-12-02 12:46:40.096965
+first_batch_214	RECOMMENDER	user_365	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Widowed	Moderate	Other	user_366	2019-12-02 12:48:43.541347
+first_batch_215	RECOMMENDER	user_367	Strongly agree	Strongly agree	18 - 24	Male	Hispanic/Latino	High School/GED	Employed	Never been married	Conservative	Roman Catholic	user_368	2019-12-02 12:58:58.068327
+first_batch_216	RECOMMENDER	user_194	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Married	Liberal	Atheist	user_369	2019-12-02 13:08:39.324197
+first_batch_217	RECOMMENDER	user_135	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_370	2019-12-02 14:53:59.765772
+first_batch_218	RECOMMENDER	user_80	Neither agree nor disagree	Agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_35	2019-12-02 14:59:59.594251
+first_batch_219	RECOMMENDER	user_115	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Muslim	user_371	2019-12-02 15:00:04.840623
+first_batch_220	RECOMMENDER	user_77	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_372	2019-12-02 15:03:27.725056
+first_batch_221	RECOMMENDER	user_5	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Divorced	Moderate	Protestant	user_294	2019-12-02 15:08:35.862682
+first_batch_223	RECOMMENDER	user_77	Agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_373	2019-12-02 15:37:03.821512
+first_batch_224	RECOMMENDER	user_374	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_375	2019-12-02 15:41:44.931216
+first_batch_225	RECOMMENDER	user_214	Strongly agree	Strongly agree	25 - 34	Male	East Asian	Doctorate	Employed	Married	Moderate	Roman Catholic	user_376	2019-12-02 15:48:52.571659
+first_batch_226	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_377	2019-12-02 17:00:54.247612
+first_batch_227	RECOMMENDER	user_378	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_379	2019-12-02 17:23:15.703465
+first_batch_228	RECOMMENDER	user_380	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Employed	Widowed	Moderate	Protestant	user_381	2019-12-02 17:27:06.872723
+first_batch_229	RECOMMENDER	user_382	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Conservative	Protestant	user_78	2019-12-02 17:29:34.034936
+first_batch_230	RECOMMENDER	user_383	Agree	Agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_384	2019-12-02 17:45:42.416942
+first_batch_231	RECOMMENDER	user_385	Agree	Agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Living with partner	Liberal	Other	user_386	2019-12-02 17:54:28.004520
+first_batch_232	RECOMMENDER	user_387	Agree	Agree	25 - 34	Male	Hispanic/Latino	Associate Degree	Homemaker	Separated	Moderate	Other	user_388	2019-12-02 18:32:02.136673
+first_batch_233	RECOMMENDER	user_211	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_389	2019-12-02 18:34:04.060384
+first_batch_234	RECOMMENDER	user_44	Disagree	Neither agree nor disagree	25 - 34	Male	South Asian	Master	University Student	Divorced	Conservative	Protestant	user_390	2019-12-02 18:59:53.584946
+first_batch_235	RECOMMENDER	user_391	Strongly agree	Strongly agree	18 - 24	Female	Other	High School/GED	Employed	Never been married	Moderate	Other	user_392	2019-12-02 19:03:33.289053
+first_batch_236	RECOMMENDER	user_393	Strongly disagree	Strongly disagree	18 - 24	Female	East Asian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Atheist	user_394	2019-12-02 19:17:59.001644
+first_batch_237	RECOMMENDER	user_395	Disagree	Neither agree nor disagree	25 - 34	Female	East Asian	Master	Employed	Never been married	Moderate	Protestant	user_396	2019-11-25 15:56:42.067907
+first_batch_238	RECOMMENDER	user_397	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_398	2019-11-26 05:27:31.478142
+first_batch_239	RECOMMENDER	user_399	Agree	Agree	45 - 54	Female	Caucasian	Master	Employed	Married	Moderate	Roman Catholic	user_400	2019-11-26 06:11:38.833186
+first_batch_240	RECOMMENDER	user_401	Strongly agree	Strongly agree	25 - 34	Female	Other	High School/GED	Employed	Never been married	Liberal	Other	user_362	2019-11-26 11:19:00.837530
+first_batch_241	RECOMMENDER	user_364	Agree	Agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_402	2019-11-26 11:25:09.450584
+first_batch_242	RECOMMENDER	user_321	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Liberal	Atheist	user_403	2019-11-26 11:46:28.269410
+first_batch_243	RECOMMENDER	user_365	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Widowed	Moderate	Other	user_404	2019-12-04 10:41:29.759964
+first_batch_244	RECOMMENDER	user_405	Strongly disagree	Strongly disagree	25 - 34	Female	South Asian	Master	Employed	Divorced	Conservative	Hindu	user_304	2019-12-04 10:45:34.803729
+first_batch_245	RECOMMENDER	user_406	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	Employed	Never been married	Moderate	Other	user_407	2019-12-04 10:48:45.587686
+first_batch_246	RECOMMENDER	user_95	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Other	user_115	2019-12-04 10:51:27.735905
+first_batch_247	RECOMMENDER	user_408	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_409	2019-12-04 10:56:57.045328
+first_batch_248	RECOMMENDER	user_410	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_411	2019-12-04 11:06:04.276383
+first_batch_249	RECOMMENDER	user_412	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Atheist	user_190	2019-12-04 11:18:59.233845
+first_batch_250	RECOMMENDER	user_114	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_413	2019-12-04 11:35:26.942738
+first_batch_252	RECOMMENDER	user_414	Agree	Agree	18 - 24	Male	Caucasian	Associate Degree	University Student	Never been married	Moderate	Jewish	user_415	2019-12-04 11:44:11.714674
+first_batch_253	RECOMMENDER	user_416	Agree	Neither agree nor disagree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_417	2019-12-04 12:05:08.526906
+first_batch_254	RECOMMENDER	user_418	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	Master	Employed	Never been married	Moderate	Atheist	user_419	2019-12-04 12:06:32.153661
+first_batch_256	RECOMMENDER	user_77	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_420	2019-12-04 12:57:09.067917
+first_batch_257	RECOMMENDER	user_104	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_386	2019-12-04 13:28:27.537751
+first_batch_258	RECOMMENDER	user_92	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_42	2019-12-04 14:09:06.593476
+first_batch_259	RECOMMENDER	user_421	Neither agree nor disagree	Agree	18 - 24	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	University Student	Married	Liberal	Protestant	user_149	2019-12-04 14:25:06.803241
+first_batch_260	RECOMMENDER	user_422	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Liberal	Jewish	user_423	2019-12-04 14:26:32.047956
+first_batch_261	RECOMMENDER	user_77	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_92	2019-12-04 14:38:24.055653
+first_batch_262	RECOMMENDER	user_424	Agree	Agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Buddhist	user_425	2019-12-04 14:41:41.082099
+first_batch_263	RECOMMENDER	user_279	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_426	2019-12-04 15:03:17.889302
+first_batch_264	RECOMMENDER	user_372	Agree	Agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Retired	Married	Moderate	Protestant	user_77	2019-12-04 15:09:50.839862
+first_batch_265	RECOMMENDER	user_5	Agree	Agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Divorced	Moderate	Protestant	user_427	2019-12-04 15:10:21.788626
+first_batch_266	RECOMMENDER	user_428	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	Vocational Training	Employed	Married	Conservative	Other	user_429	2019-12-04 15:12:09.250455
+first_batch_267	RECOMMENDER	user_430	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_431	2019-12-04 15:26:17.806858
+first_batch_268	RECOMMENDER	user_432	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Buddhist	user_433	2019-12-04 16:04:02.242503
+first_batch_270	RECOMMENDER	user_434	Neither agree nor disagree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_435	2019-12-04 16:36:37.911290
+first_batch_271	RECOMMENDER	user_436	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_437	2019-12-04 16:39:09.684764
+first_batch_272	RECOMMENDER	user_438	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Atheist	user_439	2019-12-04 17:25:51.808260
+first_batch_273	RECOMMENDER	user_440	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Jewish	user_441	2019-12-04 17:56:08.969363
+first_batch_274	RECOMMENDER	user_442	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Protestant	user_443	2019-12-04 17:57:49.359453
+first_batch_275	RECOMMENDER	user_444	Agree	Agree	25 - 34	Male	East Asian	Doctorate	Employed	Living with partner	Moderate	Roman Catholic	user_445	2020-02-19 23:00:34.678957
+first_batch_276	RECOMMENDER	user_77	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_278	2020-02-19 23:09:49.445302
+first_batch_277	RECOMMENDER	user_446	Agree	Neither agree nor disagree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_447	2020-02-19 23:12:57.019580
+first_batch_278	RECOMMENDER	user_448	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Living with partner	Moderate	Protestant	user_449	2020-02-19 23:27:14.142210
+first_batch_279	RECOMMENDER	user_450	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Other	user_451	2020-02-20 01:05:06.718496
+first_batch_280	RECOMMENDER	user_452	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	High School/GED	Employed	Living with partner	Liberal	Roman Catholic	user_453	2020-02-20 01:21:33.280529
+first_batch_281	RECOMMENDER	user_298	Strongly agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_454	2020-02-20 01:41:10.456886
+first_batch_282	RECOMMENDER	user_455	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Moderate	Roman Catholic	user_283	2020-02-20 04:26:19.861272
+first_batch_283	RECOMMENDER	user_172	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Living with partner	Liberal	Other	user_456	2020-02-20 04:52:58.351612
+first_batch_284	RECOMMENDER	user_457	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Homemaker	Married	Liberal	Roman Catholic	user_458	2020-02-20 05:12:23.999089
+first_batch_285	RECOMMENDER	user_459	Agree	Agree	25 - 34	Female	African	"Professional Postgraduate Degree (Medical, Law, etc)"	University Student	Never been married	Moderate	Protestant	user_460	2020-02-20 05:14:13.700653
+first_batch_286	RECOMMENDER	user_461	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Roman Catholic	user_172	2020-02-20 05:22:03.167620
+first_batch_287	RECOMMENDER	user_462	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Liberal	Other	user_463	2020-02-20 05:25:40.718882
+first_batch_288	RECOMMENDER	user_464	Strongly agree	Strongly agree	35 - 44	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Married	Moderate	Mormon	user_465	2020-02-20 05:31:46.078534
+first_batch_289	RECOMMENDER	user_466	Agree	Strongly agree	35 - 44	Male	Hispanic/Latino	Doctorate	Employed	Married	Liberal	Atheist	user_467	2020-02-20 05:50:32.369985
+first_batch_290	RECOMMENDER	user_468	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Conservative	Protestant	user_135	2020-02-20 06:47:52.430400
+first_batch_291	RECOMMENDER	user_469	Agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_470	2020-02-20 06:52:20.554115
+first_batch_292	RECOMMENDER	user_471	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_472	2020-02-20 06:53:06.225735
+first_batch_293	RECOMMENDER	user_473	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_474	2020-02-20 07:08:27.716468
+first_batch_294	RECOMMENDER	user_475	Agree	Agree	25 - 34	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_476	2020-02-20 07:20:27.070636
+first_batch_295	RECOMMENDER	user_477	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_478	2020-02-20 09:34:53.762316
+first_batch_296	RECOMMENDER	user_479	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_480	2020-02-20 09:35:33.942803
+first_batch_297	RECOMMENDER	user_481	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Liberal	Protestant	user_482	2020-02-20 09:35:53.947313
+first_batch_298	RECOMMENDER	user_483	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	Master	Retired	Married	Conservative	Buddhist	user_304	2020-02-20 09:38:54.046177
+first_batch_299	RECOMMENDER	user_484	Agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Other	user_135	2020-02-20 09:58:36.748034
+first_batch_300	RECOMMENDER	user_485	Agree	Agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_333	2020-02-20 10:01:19.208945
+first_batch_301	RECOMMENDER	user_486	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Protestant	user_487	2020-02-20 10:02:52.098235
+first_batch_302	RECOMMENDER	user_488	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Homemaker	Married	Conservative	Mormon	user_489	2020-02-20 10:08:37.445282
+first_batch_303	RECOMMENDER	user_490	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	No Degree	University Student	Never been married	Conservative	Protestant	user_77	2020-02-20 10:13:17.251444
+first_batch_304	RECOMMENDER	user_491	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Master	Employed	Married	Liberal	Mormon	user_492	2020-02-20 10:15:50.721358
+first_batch_305	RECOMMENDER	user_493	Disagree	Disagree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Never been married	Liberal	Other	user_494	2020-02-20 10:18:09.049887
+first_batch_306	RECOMMENDER	user_495	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_496	2020-02-20 10:18:50.720493
+first_batch_307	RECOMMENDER	user_497	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Conservative	Protestant	user_498	2020-02-20 10:19:02.233418
+first_batch_308	RECOMMENDER	user_135	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Protestant	user_499	2020-02-20 10:19:34.243393
+first_batch_309	RECOMMENDER	user_500	Disagree	Disagree	18 - 24	Female	South Asian	High School/GED	University Student	Never been married	Liberal	Muslim	user_501	2020-02-20 10:19:52.132556
+first_batch_310	RECOMMENDER	user_502	Agree	Agree	45 - 54	Male	Other	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_503	2020-02-20 10:25:06.017236
+first_batch_311	RECOMMENDER	user_304	Strongly agree	Agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_121	2020-02-20 10:32:29.136896
+first_batch_313	RECOMMENDER	user_504	Strongly agree	Strongly agree	18 - 24	Female	East Asian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Other	user_505	2020-02-20 10:38:38.476766
+first_batch_314	RECOMMENDER	user_506	Strongly agree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_507	2020-02-20 10:41:39.182825
+first_batch_315	RECOMMENDER	user_508	Agree	Neither agree nor disagree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Other	user_509	2020-02-20 10:52:52.213300
+first_batch_316	RECOMMENDER	user_333	Agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_510	2020-02-20 10:54:48.591075
+first_batch_317	RECOMMENDER	user_511	Agree	Agree	25 - 34	Male	South Asian	Master	Employed	Living with partner	Moderate	Buddhist	user_512	2020-02-20 10:59:13.834490
+first_batch_318	RECOMMENDER	user_513	Agree	Agree	35 - 44	Male	African	Associate Degree	Employed	Never been married	Moderate	Other	user_514	2020-02-20 11:01:19.255855
+first_batch_319	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_491	2020-02-20 11:01:31.572098
+first_batch_320	RECOMMENDER	user_515	Strongly agree	Strongly agree	18 - 24	Male	African	High School/GED	University Student	Never been married	Liberal	Protestant	user_304	2020-02-20 11:10:49.403798
+first_batch_321	RECOMMENDER	user_516	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_517	2020-02-20 11:13:36.662964
+first_batch_322	RECOMMENDER	user_518	Strongly agree	Strongly agree	25 - 34	Female	Other	High School/GED	Homemaker	Married	Moderate	Protestant	user_519	2020-02-20 11:14:13.202891
+first_batch_323	RECOMMENDER	user_520	Agree	Strongly agree	25 - 34	Male	Hispanic/Latino	High School/GED	Employed	Never been married	Moderate	Other	user_521	2020-02-20 11:16:40.150658
+first_batch_324	RECOMMENDER	user_482	Strongly agree	Strongly agree	18 - 24	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_522	2020-02-20 11:17:38.780911
+first_batch_325	RECOMMENDER	user_523	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_333	2020-02-20 11:26:38.812960
+first_batch_326	RECOMMENDER	user_524	Agree	Agree	35 - 44	Male	Southeast Asian	Master	Employed	Married	Moderate	Roman Catholic	user_525	2020-02-20 11:28:17.596308
+first_batch_327	RECOMMENDER	user_491	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Master	Employed	Married	Liberal	Mormon	user_526	2020-02-20 11:28:58.226226
+first_batch_328	RECOMMENDER	user_527	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Married	Liberal	Atheist	user_528	2020-02-20 11:30:08.842321
+first_batch_329	RECOMMENDER	user_482	Agree	Agree	18 - 24	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_529	2020-02-20 11:37:55.666885
+first_batch_330	RECOMMENDER	user_530	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Conservative	Protestant	user_531	2020-02-20 11:38:32.077260
+first_batch_331	RECOMMENDER	user_532	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_533	2020-02-20 11:48:39.632723
+first_batch_332	RECOMMENDER	user_534	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Married	Moderate	Protestant	user_482	2020-02-20 11:58:36.430844
+first_batch_333	RECOMMENDER	user_535	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_536	2020-02-20 12:03:02.018843
+first_batch_334	RECOMMENDER	user_532	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_364	2020-02-20 12:06:07.254814
+first_batch_335	RECOMMENDER	user_537	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_538	2020-02-20 12:08:49.099093
+first_batch_336	RECOMMENDER	user_539	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Atheist	user_333	2020-02-20 12:09:35.613331
+first_batch_337	RECOMMENDER	user_540	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_298	2020-02-20 12:19:12.214317
+first_batch_338	RECOMMENDER	user_541	Agree	Agree	35 - 44	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Married	Liberal	Jewish	user_503	2020-02-20 12:19:45.567782
+first_batch_339	RECOMMENDER	user_532	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_542	2020-02-20 12:26:41.075758
+first_batch_340	RECOMMENDER	user_77	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_98	2020-02-20 12:30:06.626168
+first_batch_341	RECOMMENDER	user_482	Agree	Agree	18 - 24	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_543	2020-02-20 12:31:30.137417
+first_batch_342	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_364	2020-02-20 12:36:05.175063
+first_batch_343	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_544	2020-02-20 12:39:12.000081
+first_batch_344	RECOMMENDER	user_545	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_546	2020-02-20 12:42:50.385991
+first_batch_345	RECOMMENDER	user_510	Strongly disagree	Agree	35 - 44	Female	African	High School/GED	Employed	Never been married	Moderate	Protestant	user_547	2020-02-20 12:47:28.118626
+first_batch_346	RECOMMENDER	user_546	Strongly agree	Strongly agree	18 - 24	Male	South Asian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Muslim	user_548	2020-02-20 12:49:40.453460
+first_batch_347	RECOMMENDER	user_549	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Atheist	user_550	2020-02-20 12:59:19.212080
+first_batch_348	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_551	2020-02-20 13:00:29.631707
+first_batch_349	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_552	2020-02-20 13:03:37.982663
+first_batch_350	RECOMMENDER	user_553	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_554	2020-02-20 13:09:57.300736
+first_batch_351	RECOMMENDER	user_555	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	No Degree	Homemaker	Living with partner	Moderate	Protestant	user_491	2020-02-20 13:24:42.836528
+first_batch_352	RECOMMENDER	user_546	Agree	Agree	18 - 24	Male	South Asian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Muslim	user_549	2020-02-20 13:33:37.430010
+first_batch_353	RECOMMENDER	user_556	Strongly agree	Strongly agree	25 - 34	Male	African	Associate Degree	Employed	Never been married	Liberal	Other	user_557	2020-02-20 14:39:27.136742
+first_batch_354	RECOMMENDER	user_304	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_558	2020-02-20 14:49:36.250959
+first_batch_355	RECOMMENDER	user_482	Agree	Agree	18 - 24	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_559	2020-02-20 15:00:21.613310
+first_batch_356	RECOMMENDER	user_560	Agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Divorced	Liberal	Roman Catholic	user_561	2020-02-20 15:33:02.046823
+first_batch_357	RECOMMENDER	user_562	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_563	2020-02-20 15:36:59.925199
+first_batch_358	RECOMMENDER	user_564	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_509	2020-02-20 15:37:24.946016
+first_batch_359	RECOMMENDER	user_565	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Other	user_566	2020-02-20 16:09:17.938806
+first_batch_360	RECOMMENDER	user_567	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Other	user_564	2020-02-20 16:14:10.529166
+first_batch_361	RECOMMENDER	user_562	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_568	2020-02-20 16:19:11.224109
+first_batch_363	RECOMMENDER	user_569	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	High School/GED	Homemaker	Living with partner	Moderate	Other	user_570	2020-02-20 16:27:31.083201
+first_batch_364	RECOMMENDER	user_571	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Protestant	user_562	2020-02-20 16:47:39.554891
+first_batch_365	RECOMMENDER	user_298	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_172	2020-02-20 16:56:47.109034
+first_batch_366	RECOMMENDER	user_572	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Muslim	user_573	2020-02-20 17:15:02.970751
+first_batch_367	RECOMMENDER	user_574	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_575	2020-02-20 17:17:01.963968
+first_batch_368	RECOMMENDER	user_576	Strongly agree	Strongly agree	35 - 44	Male	African	Master	Employed	Never been married	Liberal	Atheist	user_577	2020-02-20 17:27:46.558283
+first_batch_369	RECOMMENDER	user_578	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Protestant	user_579	2020-02-20 17:35:10.180310
+first_batch_370	RECOMMENDER	user_580	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Retired	Married	Conservative	Jewish	user_271	2020-02-20 17:48:24.803245
+first_batch_371	RECOMMENDER	user_581	Neither agree nor disagree	Neither agree nor disagree	35 - 44	Female	Caucasian	High School/GED	Unable to Work	Never been married	Moderate	Other	user_582	2020-02-20 18:36:10.970719
+first_batch_372	RECOMMENDER	user_368	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Atheist	user_583	2020-02-20 19:04:06.966493
+first_batch_373	RECOMMENDER	user_584	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Muslim	user_18	2020-02-20 20:07:29.101989
+first_batch_374	RECOMMENDER	user_585	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Associate Degree	University Student	Never been married	Moderate	Other	user_586	2020-02-20 20:57:04.718791
+first_batch_375	RECOMMENDER	user_587	Strongly disagree	Strongly disagree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Roman Catholic	user_588	2020-02-20 22:23:04.545167
+first_batch_376	RECOMMENDER	user_589	Agree	Agree	12 or younger	Male	Hispanic/Latino	No Degree	Employed	Living with partner	Moderate	Roman Catholic	user_590	2020-02-20 22:28:57.029996
+first_batch_377	RECOMMENDER	user_591	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_592	2020-02-20 23:09:13.664975
+first_batch_378	RECOMMENDER	user_593	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_48	2020-02-21 01:23:30.997758
+first_batch_379	RECOMMENDER	user_594	Strongly disagree	Strongly disagree	25 - 34	Male	Southeast Asian	Master	Employed	Never been married	Moderate	Atheist	user_595	2020-02-21 02:05:59.308144
+first_batch_380	RECOMMENDER	user_596	Strongly agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_597	2020-02-21 04:22:27.808673
+first_batch_381	RECOMMENDER	user_598	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_599	2020-02-21 05:28:24.496342
+first_batch_382	RECOMMENDER	user_152	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Roman Catholic	user_600	2020-02-21 05:31:16.842582
+first_batch_383	RECOMMENDER	user_601	Disagree	Disagree	55 - 74	Female	Caucasian	Master	Retired	Widowed	Liberal	Other	user_602	2020-02-21 05:50:02.388620
+first_batch_384	RECOMMENDER	user_603	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Never been married	Liberal	Protestant	user_143	2020-02-21 05:56:04.344099
+first_batch_385	RECOMMENDER	user_604	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Employed	Living with partner	Liberal	Protestant	user_605	2020-02-21 06:49:31.440897
+first_batch_386	RECOMMENDER	user_606	Disagree	Disagree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Moderate	Muslim	user_298	2020-02-21 07:07:28.424864
+first_batch_387	RECOMMENDER	user_475	Strongly agree	Strongly agree	25 - 34	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_607	2020-02-21 07:12:51.383479
+first_batch_388	RECOMMENDER	user_608	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Other	user_475	2020-02-21 07:33:45.242803
+first_batch_389	RECOMMENDER	user_596	Strongly agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_609	2020-02-21 07:44:54.442417
+first_batch_390	RECOMMENDER	user_610	Agree	Agree	55 - 74	Female	Caucasian	High School/GED	Employed	Married	Moderate	Roman Catholic	user_611	2020-02-21 08:02:49.976996
+first_batch_391	RECOMMENDER	user_6	Strongly agree	Strongly agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_612	2020-02-21 08:05:46.509777
+first_batch_392	RECOMMENDER	user_613	Strongly agree	Strongly agree	45 - 54	Male	Hispanic/Latino	High School/GED	Employed	Living with partner	Moderate	Other	user_614	2020-02-21 08:17:04.535254
+first_batch_393	RECOMMENDER	user_615	Agree	Agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Protestant	user_616	2020-02-21 08:37:49.175100
+first_batch_394	RECOMMENDER	user_6	Strongly agree	Strongly agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_617	2020-02-21 08:40:07.370582
+first_batch_395	RECOMMENDER	user_618	Agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_619	2020-02-21 08:51:06.483174
+first_batch_396	RECOMMENDER	user_620	Strongly agree	Strongly agree	25 - 34	Female	East Asian	Master	Employed	Never been married	Moderate	Atheist	user_621	2020-02-21 09:34:53.023448
+first_batch_397	RECOMMENDER	user_622	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Atheist	user_623	2020-02-21 10:31:59.318119
+first_batch_398	RECOMMENDER	user_624	Agree	Agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Married	Liberal	Other	user_478	2020-02-21 10:48:23.809214
+first_batch_399	RECOMMENDER	user_625	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Divorced	Conservative	Other	user_626	2020-02-21 11:16:43.087050
+first_batch_400	RECOMMENDER	user_627	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Mormon	user_628	2020-02-21 11:21:14.041711
+first_batch_401	RECOMMENDER	user_629	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Atheist	user_630	2020-02-21 12:15:23.102893
+first_batch_402	RECOMMENDER	user_631	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_5	2020-02-21 13:11:09.067834
+first_batch_403	RECOMMENDER	user_78	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_115	2019-12-06 14:12:32.125099
+first_batch_404	RECOMMENDER	user_80	Agree	Agree	18 - 24	Male	African	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_632	2019-12-06 14:17:57.438019
+first_batch_405	RECOMMENDER	user_633	Agree	Neither agree nor disagree	45 - 54	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Other	user_508	2019-12-06 14:22:27.627361
+first_batch_406	RECOMMENDER	user_634	Neither agree nor disagree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Atheist	user_6	2019-12-06 14:31:37.322147
+first_batch_407	RECOMMENDER	user_304	Strongly agree	Agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_635	2019-12-06 15:45:30.015410
+first_batch_408	RECOMMENDER	user_77	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Orthodox	user_636	2019-12-06 16:32:57.729208
+first_batch_409	RECOMMENDER	user_637	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Master	Employed	Never been married	Liberal	Roman Catholic	user_638	2019-12-06 16:51:51.922699
+first_batch_410	RECOMMENDER	user_639	Agree	Agree	35 - 44	Male	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Divorced	Conservative	Other	user_77	2019-12-06 17:34:49.071874
+first_batch_411	RECOMMENDER	user_640	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_641	2019-12-06 22:50:06.853034
+first_batch_412	RECOMMENDER	user_31	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_642	2019-12-06 23:15:00.039984
+first_batch_413	RECOMMENDER	user_230	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Jewish	user_643	2019-12-06 23:40:54.018071
+first_batch_414	RECOMMENDER	user_644	Neither agree nor disagree	Agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_645	2019-12-07 02:53:18.636566
+first_batch_415	RECOMMENDER	user_298	Strongly agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_646	2019-12-07 07:48:38.183738
+first_batch_416	RECOMMENDER	user_294	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	High School/GED	Unable to Work	Never been married	Liberal	Protestant	user_647	2019-12-07 07:49:35.446363
+first_batch_417	RECOMMENDER	user_287	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_648	2019-12-07 09:32:08.187885
+first_batch_418	RECOMMENDER	user_649	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Roman Catholic	user_650	2019-12-07 10:35:49.631848
+first_batch_419	RECOMMENDER	user_651	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Liberal	Other	user_294	2019-12-07 10:55:36.137922
+first_batch_420	RECOMMENDER	user_652	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_653	2019-12-07 11:02:40.200433
+first_batch_421	RECOMMENDER	user_654	Agree	Strongly agree	45 - 54	Female	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_67	2019-12-07 13:38:37.721298
+first_batch_422	RECOMMENDER	user_655	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Other	user_656	2019-12-07 15:49:53.324702
+first_batch_424	RECOMMENDER	user_657	Agree	Agree	18 - 24	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Protestant	user_658	2019-12-07 16:00:26.827762
+first_batch_425	RECOMMENDER	user_12	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Separated	Liberal	Atheist	user_659	2019-12-07 17:37:26.744877
+first_batch_426	RECOMMENDER	user_660	Agree	Strongly agree	25 - 34	Male	Native American/American Indian/Alaskan Native	Master	Employed	Married	Moderate	Roman Catholic	user_661	2019-11-29 01:36:52.581683
+first_batch_429	RECOMMENDER	user_503	Strongly agree	Strongly agree	25 - 34	Female	Other	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_662	2019-11-29 04:43:07.934391
+first_batch_431	RECOMMENDER	user_663	Agree	Agree	45 - 54	Male	Caucasian	Vocational Training	Employed	Married	Moderate	Protestant	user_664	2019-11-29 05:39:10.129659
+first_batch_432	RECOMMENDER	user_665	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Living with partner	Moderate	Atheist	user_666	2019-11-29 05:40:55.468426
+first_batch_434	RECOMMENDER	user_667	Agree	Agree	35 - 44	Male	Caucasian	Doctorate	Employed	Divorced	Liberal	Atheist	user_668	2019-11-29 06:19:32.059603
+first_batch_435	RECOMMENDER	user_669	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_670	2019-11-29 06:21:59.634062
+first_batch_436	RECOMMENDER	user_671	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_672	2019-11-29 06:54:50.692729
+first_batch_437	RECOMMENDER	user_656	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_78	2019-11-28 04:54:18.596456
+first_batch_438	RECOMMENDER	user_85	Agree	Strongly agree	25 - 34	Female	South Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Hindu	user_673	2019-11-28 05:07:31.111035
+first_batch_440	RECOMMENDER	user_674	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_675	2019-11-28 07:13:59.777368
+first_batch_441	RECOMMENDER	user_676	Strongly agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_677	2019-11-28 07:21:32.690363
+first_batch_442	RECOMMENDER	user_678	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Married	Liberal	Jewish	user_679	2019-11-28 07:32:45.631968
+first_batch_443	RECOMMENDER	user_680	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_134	2019-11-28 08:07:23.755071
+first_batch_444	RECOMMENDER	user_681	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_682	2019-11-28 08:37:38.482815
+first_batch_446	RECOMMENDER	user_683	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Liberal	Atheist	user_147	2019-11-28 09:15:12.469550
+first_batch_447	RECOMMENDER	user_684	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_685	2019-11-28 09:56:40.424134
+first_batch_448	RECOMMENDER	user_276	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_686	2019-12-08 14:08:35.450764
+first_batch_450	RECOMMENDER	user_687	Neither agree nor disagree	Neither agree nor disagree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_688	2019-12-08 14:20:06.942900
+first_batch_451	RECOMMENDER	user_689	Strongly agree	Strongly agree	45 - 54	Female	African	Vocational Training	Employed	Never been married	Moderate	Protestant	user_690	2019-12-08 14:55:57.590967
+first_batch_452	RECOMMENDER	user_691	Strongly agree	Agree	18 - 24	Female	Caucasian	Associate Degree	Employed	Never been married	Liberal	Jewish	user_478	2019-12-08 14:57:05.541999
+first_batch_453	RECOMMENDER	user_692	Agree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Atheist	user_693	2019-12-08 15:09:20.823959
+first_batch_454	RECOMMENDER	user_694	Strongly agree	Strongly agree	25 - 34	Female	Southeast Asian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Other	user_695	2019-12-08 15:24:31.584015
+first_batch_455	RECOMMENDER	user_696	Agree	Strongly agree	18 - 24	Female	Southeast Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_5	2019-12-08 15:39:46.700690
+first_batch_456	RECOMMENDER	user_697	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Employed	Living with partner	Moderate	Atheist	user_304	2019-12-08 15:44:58.092471
+first_batch_457	RECOMMENDER	user_57	Neither agree nor disagree	Agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Other	user_698	2019-12-08 17:23:23.150588
+first_batch_458	RECOMMENDER	user_699	Strongly agree	Strongly agree	18 - 24	Female	African	High School/GED	Non-university student	Never been married	Moderate	Other	user_700	2019-12-08 17:26:29.166878
+first_batch_459	RECOMMENDER	user_701	Strongly agree	Strongly agree	18 - 24	Male	Hispanic/Latino	Bachelor/4-year Degree	University Student	Never been married	Moderate	Roman Catholic	user_702	2019-12-08 17:35:23.589304
+first_batch_460	RECOMMENDER	user_703	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Protestant	user_704	2019-12-08 18:15:21.274262
+first_batch_461	RECOMMENDER	user_705	Disagree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_96	2019-12-08 18:30:41.731034
+first_batch_462	RECOMMENDER	user_706	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Vocational Training	Employed	Married	Conservative	Protestant	user_85	2019-12-08 19:28:42.046684
+first_batch_463	RECOMMENDER	user_707	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_708	2019-12-08 19:51:05.935399
+first_batch_464	RECOMMENDER	user_709	Agree	Agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Atheist	user_677	2019-12-09 00:51:37.856847
+first_batch_465	RECOMMENDER	user_710	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_711	2019-12-09 05:53:20.981350
+first_batch_466	RECOMMENDER	user_372	Agree	Agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Retired	Married	Moderate	Protestant	user_712	2019-12-09 06:00:06.118938
+first_batch_467	RECOMMENDER	user_713	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Other	user_714	2019-12-09 06:28:39.255743
+first_batch_468	RECOMMENDER	user_715	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	High School/GED	Employed	Married	Liberal	Other	user_199	2019-12-09 07:29:35.547900
+first_batch_469	RECOMMENDER	user_716	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_717	2019-12-09 07:34:44.076342
+first_batch_470	RECOMMENDER	user_718	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_719	2019-12-09 07:39:50.500661
+first_batch_471	RECOMMENDER	user_720	Agree	Agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_121	2019-12-09 07:55:43.111205
+first_batch_472	RECOMMENDER	user_420	Strongly agree	Strongly agree	35 - 44	Male	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_721	2019-12-09 08:08:44.388151
+first_batch_473	RECOMMENDER	user_722	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Protestant	user_723	2019-12-09 08:19:40.450099
+first_batch_474	RECOMMENDER	user_724	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Living with partner	Moderate	Roman Catholic	user_725	2019-12-09 11:19:47.883520
+first_batch_475	RECOMMENDER	user_726	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_650	2019-12-09 11:28:23.622067
+first_batch_476	RECOMMENDER	user_727	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Employed	Never been married	Liberal	Other	user_98	2019-12-09 11:40:41.484919
+first_batch_477	RECOMMENDER	user_728	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Moderate	Roman Catholic	user_729	2019-12-09 11:52:44.853337
+first_batch_478	RECOMMENDER	user_730	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_731	2019-12-09 12:30:06.428136
+first_batch_479	RECOMMENDER	user_732	Strongly agree	Strongly agree	35 - 44	Male	African	Associate Degree	Employed	Living with partner	Conservative	Protestant	user_733	2019-12-09 12:34:38.376453
+first_batch_480	RECOMMENDER	user_734	Strongly agree	Strongly agree	35 - 44	Female	Southeast Asian	Bachelor/4-year Degree	Homemaker	Married	Liberal	Protestant	user_735	2019-12-09 12:53:20.582313
+first_batch_481	RECOMMENDER	user_736	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Unable to Work	Married	Conservative	Protestant	user_737	2019-12-09 12:53:36.255457
+first_batch_482	RECOMMENDER	user_738	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Conservative	Roman Catholic	user_739	2019-12-09 13:03:19.671915
+first_batch_483	RECOMMENDER	user_104	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_508	2019-12-09 13:21:31.335961
+first_batch_484	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_740	2019-11-30 14:38:49.699573
+first_batch_485	RECOMMENDER	user_478	Strongly disagree	Strongly disagree	35 - 44	Male	Southeast Asian	No Degree	Homemaker	Married	Conservative	Roman Catholic	user_741	2019-11-30 14:43:47.580921
+first_batch_486	RECOMMENDER	user_742	Agree	Neither agree nor disagree	18 - 24	Female	Other	High School/GED	University Student	Never been married	Liberal	Protestant	user_743	2019-11-30 14:48:05.351640
+first_batch_487	RECOMMENDER	user_115	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Muslim	user_12	2019-11-30 15:07:39.995976
+first_batch_488	RECOMMENDER	user_744	Agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Conservative	Protestant	user_745	2019-11-30 15:29:09.682238
+first_batch_489	RECOMMENDER	user_746	Agree	Strongly agree	25 - 34	Female	Middle Eastern	"Professional Postgraduate Degree (Medical, Law, etc)"	University Student	Married	Liberal	Muslim	user_747	2019-11-30 15:46:47.358900
+first_batch_490	RECOMMENDER	user_748	Neither agree nor disagree	Neither agree nor disagree	45 - 54	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Divorced	Conservative	Protestant	user_749	2019-11-30 16:11:58.981176
+first_batch_491	RECOMMENDER	user_750	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_751	2019-11-30 16:23:37.944076
+first_batch_492	RECOMMENDER	user_36	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Married	Conservative	Roman Catholic	user_752	2019-11-30 16:33:16.721620
+first_batch_493	RECOMMENDER	user_753	Agree	Agree	25 - 34	Male	African	Master	University Student	Never been married	Moderate	Protestant	user_172	2019-11-30 16:49:24.492828
+first_batch_494	RECOMMENDER	user_76	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	Associate Degree	Employed	Divorced	Moderate	Roman Catholic	user_754	2019-11-30 17:18:49.904387
+first_batch_495	RECOMMENDER	user_36	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Married	Conservative	Roman Catholic	user_755	2019-11-30 17:30:28.129227
+first_batch_496	RECOMMENDER	user_756	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Liberal	Atheist	user_757	2019-11-30 18:37:07.589502
+first_batch_497	RECOMMENDER	user_758	Agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Moderate	Other	user_759	2019-11-30 18:48:01.069304
+first_batch_498	RECOMMENDER	user_760	Agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Married	Moderate	Roman Catholic	user_309	2019-11-30 18:55:52.021432
+first_batch_499	RECOMMENDER	user_761	Strongly disagree	Strongly disagree	35 - 44	Female	Caucasian	Associate Degree	Homemaker	Married	Moderate	Orthodox	user_762	2019-11-30 19:04:30.320667
+first_batch_500	RECOMMENDER	user_763	Agree	Agree	35 - 44	Male	African	High School/GED	Employed	Never been married	Moderate	Protestant	user_764	2019-11-30 19:06:22.414734
+first_batch_501	RECOMMENDER	user_742	Agree	Agree	18 - 24	Female	Other	High School/GED	University Student	Never been married	Liberal	Protestant	user_75	2019-11-30 19:09:30.022914
+first_batch_502	RECOMMENDER	user_765	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_26	2019-11-30 19:31:23.852476
+first_batch_503	RECOMMENDER	user_766	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Other	user_767	2019-11-30 19:35:13.542330
+first_batch_504	RECOMMENDER	user_304	Strongly agree	Agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_768	2019-11-30 19:37:22.879042
+first_batch_505	RECOMMENDER	user_769	Agree	Agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Other	user_770	2019-11-30 19:55:44.224019
+first_batch_506	RECOMMENDER	user_771	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_772	2019-11-30 20:15:57.272389
+first_batch_508	RECOMMENDER	user_773	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_774	2019-11-30 21:36:08.807649
+first_batch_510	RECOMMENDER	user_775	Disagree	Disagree	18 - 24	Female	Caucasian	High School/GED	Employed	Living with partner	Liberal	Atheist	user_776	2019-11-30 21:44:11.308932
+first_batch_511	RECOMMENDER	user_777	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	High School/GED	Unable to Work	Never been married	Moderate	Atheist	user_778	2019-11-30 21:56:13.040793
+first_batch_512	RECOMMENDER	user_779	Strongly agree	Agree	55 - 74	Female	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Retired	Never been married	Conservative	Protestant	user_780	2019-11-30 22:09:47.404484
+first_batch_513	RECOMMENDER	user_781	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Atheist	user_782	2019-11-30 23:02:20.090657
+first_batch_514	RECOMMENDER	user_276	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_783	2019-11-30 23:07:41.017601
+first_batch_515	RECOMMENDER	user_784	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Liberal	Protestant	user_785	2019-11-30 23:51:55.091385
+first_batch_516	RECOMMENDER	user_203	Neither agree nor disagree	Neither agree nor disagree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_786	2019-12-01 01:01:47.107136
+first_batch_517	RECOMMENDER	user_787	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Associate Degree	Employed	Married	Moderate	Other	user_788	2019-12-01 01:22:58.866851
+first_batch_518	RECOMMENDER	user_789	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Living with partner	Moderate	Roman Catholic	user_555	2019-12-01 04:54:53.406110
+first_batch_520	RECOMMENDER	user_790	Strongly agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Married	Conservative	Roman Catholic	user_791	2019-12-01 06:17:45.124636
+first_batch_521	RECOMMENDER	user_792	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Divorced	Liberal	Atheist	user_793	2019-12-01 06:50:19.432500
+first_batch_522	RECOMMENDER	user_794	Neither agree nor disagree	Agree	55 - 74	Male	Caucasian	Doctorate	Retired	Never been married	Liberal	Atheist	user_795	2019-12-01 06:58:18.686760
+first_batch_523	RECOMMENDER	user_796	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Buddhist	user_797	2019-12-01 07:19:52.641712
+first_batch_524	RECOMMENDER	user_798	Strongly agree	Strongly agree	35 - 44	Female	Other	Bachelor/4-year Degree	Employed	Married	Conservative	Other	user_799	2019-12-01 07:19:58.911623
+first_batch_525	RECOMMENDER	user_800	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Moderate	Protestant	user_801	2019-12-01 07:29:14.247677
+first_batch_526	RECOMMENDER	user_285	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Roman Catholic	user_802	2019-12-01 07:43:34.733782
+first_batch_527	RECOMMENDER	user_803	Agree	Agree	35 - 44	Female	Caucasian	Vocational Training	Employed	Married	Conservative	Protestant	user_49	2019-12-01 07:45:24.749511
+first_batch_528	RECOMMENDER	user_66	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_800	2019-12-01 08:26:57.250424
+first_batch_529	RECOMMENDER	user_804	Agree	Agree	35 - 44	Female	Hispanic/Latino	High School/GED	Homemaker	Living with partner	Liberal	Other	user_805	2019-12-01 08:55:58.569604
+first_batch_530	RECOMMENDER	user_806	Strongly agree	Strongly agree	25 - 34	Male	South Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_807	2019-12-01 09:11:00.818736
+first_batch_531	RECOMMENDER	user_808	Agree	Agree	25 - 34	Female	African	Master	Employed	Living with partner	Liberal	Atheist	user_809	2019-12-01 09:18:18.441525
+first_batch_532	RECOMMENDER	user_294	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	High School/GED	Unable to Work	Never been married	Liberal	Protestant	user_810	2019-12-01 09:54:50.739752
+first_batch_533	RECOMMENDER	user_8	Disagree	Disagree	35 - 44	Male	Caucasian	Vocational Training	Employed	Never been married	Liberal	Atheist	user_811	2019-11-30 00:12:35.280858
+first_batch_534	RECOMMENDER	user_812	Agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_813	2019-11-30 01:03:10.579003
+first_batch_535	RECOMMENDER	user_85	Agree	Agree	35 - 44	Female	South Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Hindu	user_814	2019-11-30 01:07:18.790532
+first_batch_536	RECOMMENDER	user_555	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Living with partner	Moderate	Other	user_815	2019-11-30 01:57:55.849245
+first_batch_537	RECOMMENDER	user_816	Agree	Neither agree nor disagree	55 - 74	Female	Caucasian	High School/GED	Retired	Divorced	Moderate	Protestant	user_595	2019-11-30 02:57:46.835287
+first_batch_538	RECOMMENDER	user_816	Agree	Neither agree nor disagree	55 - 74	Female	Caucasian	High School/GED	Retired	Divorced	Moderate	Protestant	user_817	2019-11-30 03:46:28.130371
+first_batch_540	RECOMMENDER	user_818	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Other	user_819	2019-11-30 06:06:17.288299
+first_batch_541	RECOMMENDER	user_820	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Roman Catholic	user_821	2019-11-30 06:12:44.628925
+first_batch_542	RECOMMENDER	user_822	Agree	Agree	25 - 34	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Buddhist	user_823	2019-11-30 06:15:29.268120
+first_batch_543	RECOMMENDER	user_717	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Moderate	Jewish	user_820	2019-11-30 06:28:30.528187
+first_batch_544	RECOMMENDER	user_149	Strongly agree	Strongly agree	25 - 34	Male	South Asian	Master	Employed	Married	Moderate	Hindu	user_824	2019-11-30 06:44:29.754648
+first_batch_545	RECOMMENDER	user_401	Strongly agree	Strongly agree	25 - 34	Female	Other	High School/GED	Employed	Never been married	Moderate	Other	user_825	2019-11-30 07:03:26.717006
+first_batch_546	RECOMMENDER	user_826	Agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_827	2019-11-30 07:11:54.194374
+first_batch_547	RECOMMENDER	user_828	Agree	Strongly agree	45 - 54	Male	African	Vocational Training	Employed	Never been married	Moderate	Protestant	user_77	2019-11-30 07:33:21.397455
+first_batch_549	RECOMMENDER	user_829	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Moderate	Mormon	user_221	2019-11-30 07:43:16.959289
+first_batch_551	RECOMMENDER	user_36	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Married	Conservative	Roman Catholic	user_830	2019-11-30 07:57:37.587743
+first_batch_552	RECOMMENDER	user_831	Strongly agree	Strongly agree	25 - 34	Female	African	Vocational Training	Employed	Married	Moderate	Other	user_832	2019-11-30 08:14:06.882280
+first_batch_553	RECOMMENDER	user_833	Strongly agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_834	2019-11-30 08:29:52.536871
+first_batch_554	RECOMMENDER	user_8	Agree	Agree	35 - 44	Male	Caucasian	Vocational Training	Employed	Never been married	Liberal	Atheist	user_835	2019-11-30 08:48:50.924692
+first_batch_555	RECOMMENDER	user_836	Agree	Agree	25 - 34	Female	South Asian	Associate Degree	Employed	Married	Conservative	Muslim	user_837	2019-11-30 09:00:16.206624
+first_batch_556	RECOMMENDER	user_838	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Never been married	Conservative	Other	user_839	2019-11-30 09:01:48.865044
+first_batch_557	RECOMMENDER	user_840	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_841	2019-11-30 09:07:41.675236
+first_batch_558	RECOMMENDER	user_804	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	High School/GED	Homemaker	Living with partner	Liberal	Other	user_842	2019-11-30 09:38:22.911016
+first_batch_559	RECOMMENDER	user_756	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Liberal	Atheist	user_31	2019-11-30 09:54:54.336332
+first_batch_560	RECOMMENDER	user_364	Agree	Agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_304	2019-11-30 10:33:46.645048
+first_batch_561	RECOMMENDER	user_8	Disagree	Disagree	35 - 44	Male	Caucasian	Vocational Training	Employed	Never been married	Liberal	Atheist	user_31	2019-11-30 10:42:56.488908
+first_batch_562	RECOMMENDER	user_695	Agree	Agree	45 - 54	Male	Caucasian	Vocational Training	Employed	Separated	Moderate	Other	user_331	2019-11-30 10:51:22.651373
+first_batch_563	RECOMMENDER	user_805	Agree	Agree	35 - 44	Male	African	Associate Degree	Employed	Living with partner	Conservative	Buddhist	user_843	2019-11-30 11:00:00.841775
+first_batch_564	RECOMMENDER	user_833	Strongly agree	Strongly agree	25 - 34	Male	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_844	2019-11-30 11:00:08.653649
+first_batch_565	RECOMMENDER	user_845	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	No Degree	Employed	Never been married	Liberal	Atheist	user_846	2019-11-30 11:09:38.552876
+first_batch_566	RECOMMENDER	user_847	Disagree	Disagree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_77	2019-11-30 11:11:10.288531
+first_batch_567	RECOMMENDER	user_8	Agree	Agree	35 - 44	Male	Caucasian	Vocational Training	Employed	Never been married	Liberal	Atheist	user_848	2019-11-30 11:12:17.735810
+first_batch_568	RECOMMENDER	user_849	Agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_850	2019-11-30 11:18:20.942069
+first_batch_569	RECOMMENDER	user_386	Strongly agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_851	2019-11-30 11:25:15.206406
+first_batch_570	RECOMMENDER	user_852	Neither agree nor disagree	Neither agree nor disagree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Protestant	user_853	2019-11-30 11:25:55.605603
+first_batch_571	RECOMMENDER	user_854	Agree	Agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_855	2019-11-30 11:26:32.362147
+first_batch_572	RECOMMENDER	user_856	Neither agree nor disagree	Disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Other	user_15	2019-11-30 11:34:59.395266
+first_batch_574	RECOMMENDER	user_857	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Other	user_858	2019-11-30 12:29:53.170260
+first_batch_575	RECOMMENDER	user_859	Agree	Agree	18 - 24	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	University Student	Never been married	Moderate	Other	user_860	2019-11-30 12:40:37.743495
+first_batch_576	RECOMMENDER	user_861	Strongly agree	Strongly agree	25 - 34	Female	African	High School/GED	Employed	Never been married	Moderate	Protestant	user_804	2019-11-30 12:50:35.068516
+first_batch_577	RECOMMENDER	user_862	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Roman Catholic	user_863	2019-11-30 12:54:29.754077
+first_batch_578	RECOMMENDER	user_864	Strongly agree	Agree	25 - 34	Male	African	High School/GED	University Student	Never been married	Conservative	Other	user_26	2019-11-30 12:54:47.632373
+first_batch_579	RECOMMENDER	user_865	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_866	2019-11-30 12:56:59.581230
+first_batch_580	RECOMMENDER	user_867	Agree	Agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Retired	Married	Conservative	Protestant	user_868	2019-11-30 13:02:17.954417
+first_batch_581	RECOMMENDER	user_869	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_78	2019-11-30 13:02:38.137158
+first_batch_582	RECOMMENDER	user_870	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_871	2019-11-30 13:26:43.995974
+first_batch_583	RECOMMENDER	user_203	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_872	2019-11-30 13:39:10.182231
+first_batch_584	RECOMMENDER	user_873	Strongly agree	Strongly agree	25 - 34	Female	Southeast Asian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_874	2019-11-26 16:59:21.680126
+first_batch_585	RECOMMENDER	user_875	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Atheist	user_876	2019-11-26 17:02:32.694427
+first_batch_586	RECOMMENDER	user_877	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Never been married	Liberal	Orthodox	user_878	2019-11-26 17:25:26.088794
+first_batch_587	RECOMMENDER	user_879	Neither agree nor disagree	Agree	35 - 44	Female	Caucasian	Associate Degree	University Student	Married	Liberal	Atheist	user_880	2019-11-26 17:30:29.488085
+first_batch_588	RECOMMENDER	user_671	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_881	2019-11-26 17:55:13.566354
+first_batch_589	RECOMMENDER	user_164	Strongly agree	Agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Buddhist	user_882	2019-11-26 17:59:14.393278
+first_batch_590	RECOMMENDER	user_883	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_884	2019-11-26 18:10:17.765518
+first_batch_591	RECOMMENDER	user_885	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_886	2019-11-26 18:23:01.596620
+first_batch_592	RECOMMENDER	user_780	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Other	user_887	2019-11-26 18:27:24.777957
+first_batch_593	RECOMMENDER	user_888	Agree	Agree	25 - 34	Male	Caucasian	Master	Homemaker	Divorced	Moderate	Roman Catholic	user_889	2019-11-26 18:30:04.226924
+first_batch_594	RECOMMENDER	user_85	Agree	Agree	35 - 44	Female	Southeast Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Hindu	user_890	2019-11-26 19:11:35.721540
+first_batch_595	RECOMMENDER	user_891	Agree	Agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Separated	Moderate	Roman Catholic	user_892	2019-11-26 19:12:37.521801
+first_batch_596	RECOMMENDER	user_745	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Conservative	Protestant	user_548	2019-11-26 19:30:51.133870
+first_batch_597	RECOMMENDER	user_893	Agree	Agree	35 - 44	Female	Caucasian	No Degree	Homemaker	Married	Liberal	Atheist	user_894	2019-11-26 19:38:35.995170
+first_batch_598	RECOMMENDER	user_881	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Liberal	Roman Catholic	user_895	2019-11-26 19:57:43.509515
+first_batch_599	RECOMMENDER	user_896	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Roman Catholic	user_897	2019-11-26 20:11:06.749935
+first_batch_600	RECOMMENDER	user_135	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Protestant	user_898	2019-11-26 20:16:00.222391
+first_batch_601	RECOMMENDER	user_899	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Homemaker	Married	Liberal	Atheist	user_900	2019-11-28 20:38:37.619597
+first_batch_602	RECOMMENDER	user_901	Agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Never been married	Liberal	Atheist	user_902	2019-11-28 20:51:15.490427
+first_batch_604	RECOMMENDER	user_903	Agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Mormon	user_904	2019-11-28 20:52:20.990575
+first_batch_605	RECOMMENDER	user_905	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_906	2019-11-28 20:58:19.079334
+first_batch_607	RECOMMENDER	user_745	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Conservative	Protestant	user_907	2019-11-28 21:26:23.517062
+first_batch_608	RECOMMENDER	user_908	Agree	Agree	35 - 44	Male	Caucasian	Vocational Training	Employed	Married	Conservative	Other	user_909	2019-11-28 21:28:30.287032
+first_batch_613	RECOMMENDER	user_910	Strongly agree	Strongly agree	18 - 24	Female	African	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_911	2019-11-27 18:26:09.359072
+first_batch_614	RECOMMENDER	user_912	Strongly agree	Strongly agree	18 - 24	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_784	2019-11-27 18:34:02.032021
+first_batch_615	RECOMMENDER	user_913	Agree	Agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Roman Catholic	user_914	2019-11-27 18:38:43.817453
+first_batch_616	RECOMMENDER	user_915	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Vocational Training	Employed	Married	Conservative	Protestant	user_902	2019-11-27 18:39:24.342902
+first_batch_617	RECOMMENDER	user_916	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Protestant	user_917	2019-11-27 19:08:06.624095
+first_batch_618	RECOMMENDER	user_918	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_919	2019-11-27 19:09:56.722185
+first_batch_619	RECOMMENDER	user_920	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Liberal	Protestant	user_918	2019-11-27 19:40:19.319689
+first_batch_620	RECOMMENDER	user_921	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_922	2019-11-27 20:24:04.208077
+first_batch_621	RECOMMENDER	user_745	Agree	Agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Conservative	Protestant	user_923	2019-11-27 20:25:16.668156
+first_batch_622	RECOMMENDER	user_924	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Jewish	user_925	2019-11-27 20:27:21.903560
+first_batch_623	RECOMMENDER	user_926	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Orthodox	user_927	2019-11-27 20:45:10.667200
+first_batch_624	RECOMMENDER	user_928	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	University Student	Never been married	Liberal	Atheist	user_929	2019-11-27 21:00:35.683549
+first_batch_625	RECOMMENDER	user_930	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Associate Degree	University Student	Married	Moderate	Protestant	user_671	2019-11-27 21:06:07.691407
+first_batch_626	RECOMMENDER	user_931	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_932	2019-11-27 21:43:54.569502
+first_batch_627	RECOMMENDER	user_933	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Mormon	user_422	2019-11-27 22:45:06.518837
+first_batch_628	RECOMMENDER	user_934	Strongly agree	Strongly agree	18 - 24	Female	Southeast Asian	High School/GED	Employed	Never been married	Moderate	Atheist	user_51	2019-11-28 00:47:26.331293
+first_batch_629	RECOMMENDER	user_935	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Liberal	Other	user_203	2019-11-28 00:51:53.556255
+first_batch_630	RECOMMENDER	user_936	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Employed	Living with partner	Moderate	Protestant	user_937	2019-12-01 17:12:32.146855
+first_batch_631	RECOMMENDER	user_871	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_938	2019-12-01 17:29:01.344048
+first_batch_632	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_36	2019-12-01 17:34:54.174206
+first_batch_633	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_939	2019-12-01 17:47:49.922898
+first_batch_634	RECOMMENDER	user_940	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	Master	Employed	Never been married	Liberal	Atheist	user_941	2019-12-01 17:48:02.642695
+first_batch_635	RECOMMENDER	user_49	Agree	Agree	45 - 54	Male	South Asian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Atheist	user_942	2019-12-01 17:59:03.034822
+first_batch_636	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_943	2019-12-01 18:02:35.880312
+first_batch_637	RECOMMENDER	user_944	Agree	Agree	25 - 34	Female	African	"Professional Postgraduate Degree (Medical, Law, etc)"	Employed	Never been married	Liberal	Protestant	user_945	2019-12-01 18:24:37.695261
+first_batch_638	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_946	2019-12-01 18:26:10.748157
+first_batch_639	RECOMMENDER	user_947	Strongly agree	Strongly agree	25 - 34	Female	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_948	2019-12-01 18:26:31.074737
+first_batch_640	RECOMMENDER	user_949	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Liberal	Other	user_78	2019-12-01 18:49:02.713841
+first_batch_641	RECOMMENDER	user_950	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Living with partner	Conservative	Protestant	user_951	2019-12-01 19:10:40.566806
+first_batch_642	RECOMMENDER	user_952	Agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Protestant	user_953	2019-12-01 20:05:35.322136
+first_batch_643	RECOMMENDER	user_76	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	Associate Degree	Employed	Divorced	Moderate	Roman Catholic	user_954	2019-12-01 20:45:13.876671
+first_batch_644	RECOMMENDER	user_955	Agree	Strongly agree	18 - 24	Male	Hispanic/Latino	High School/GED	Employed	Living with partner	Moderate	Atheist	user_956	2019-12-01 20:50:33.855841
+first_batch_645	RECOMMENDER	user_957	Agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Jewish	user_920	2019-12-01 21:02:32.468117
+first_batch_646	RECOMMENDER	user_958	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_959	2019-12-01 21:12:15.941698
+first_batch_647	RECOMMENDER	user_960	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_856	2019-11-29 08:56:19.757293
+first_batch_649	RECOMMENDER	user_961	Agree	Strongly agree	18 - 24	Male	African	Bachelor/4-year Degree	University Student	Never been married	Conservative	Protestant	user_962	2019-11-29 09:22:02.906539
+first_batch_653	RECOMMENDER	user_304	Agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_548	2019-11-29 09:41:31.143630
+first_batch_654	RECOMMENDER	user_4	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_503	2019-11-29 09:55:12.880977
+first_batch_655	RECOMMENDER	user_963	Strongly agree	Strongly agree	35 - 44	Male	Other	Master	Employed	Married	Moderate	Atheist	user_0	2019-11-29 10:03:16.521917
+first_batch_657	RECOMMENDER	user_964	Strongly agree	Strongly agree	45 - 54	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_665	2019-11-29 10:23:04.813893
+first_batch_658	RECOMMENDER	user_1	Disagree	Neither agree nor disagree	35 - 44	Female	Caucasian	Associate Degree	Employed	Never been married	Moderate	Other	user_965	2019-11-29 10:28:22.948532
+first_batch_661	RECOMMENDER	user_137	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Atheist	user_780	2019-12-01 12:31:25.487744
+first_batch_662	RECOMMENDER	user_966	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Buddhist	user_967	2019-12-01 12:44:31.245355
+first_batch_663	RECOMMENDER	user_968	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Atheist	user_77	2019-12-01 12:45:20.751064
+first_batch_664	RECOMMENDER	user_404	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	High School/GED	Employed	Divorced	Conservative	Protestant	user_203	2019-12-01 12:48:36.385248
+first_batch_665	RECOMMENDER	user_49	Agree	Agree	45 - 54	Male	South Asian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Atheist	user_675	2019-12-01 12:52:26.075648
+first_batch_666	RECOMMENDER	user_969	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Atheist	user_970	2019-12-01 12:57:58.498963
+first_batch_667	RECOMMENDER	user_971	Agree	Agree	45 - 54	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Protestant	user_972	2019-12-01 12:59:30.055907
+first_batch_668	RECOMMENDER	user_364	Agree	Agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_973	2019-12-01 13:07:48.501960
+first_batch_669	RECOMMENDER	user_974	Strongly agree	Strongly agree	55 - 74	Female	African	Vocational Training	Retired	Married	Conservative	Protestant	user_975	2019-12-01 13:10:25.650219
+first_batch_670	RECOMMENDER	user_976	Agree	Agree	55 - 74	Female	Caucasian	High School/GED	Employed	Divorced	Conservative	Protestant	user_439	2019-12-01 13:13:35.131670
+first_batch_671	RECOMMENDER	user_755	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Unable to Work	Separated	Moderate	Mormon	user_977	2019-12-01 13:15:23.915291
+first_batch_672	RECOMMENDER	user_78	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Conservative	Protestant	user_978	2019-12-01 13:28:52.441656
+first_batch_673	RECOMMENDER	user_979	Agree	Agree	25 - 34	Female	East Asian	Associate Degree	Homemaker	Married	Moderate	Protestant	user_980	2019-12-01 13:33:14.550868
+first_batch_674	RECOMMENDER	user_981	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Associate Degree	Employed	Living with partner	Conservative	Protestant	user_698	2019-12-01 13:38:56.911986
+first_batch_675	RECOMMENDER	user_982	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_983	2019-12-01 13:40:18.537563
+first_batch_676	RECOMMENDER	user_164	Strongly agree	Strongly agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Buddhist	user_984	2019-12-01 13:41:05.213734
+first_batch_677	RECOMMENDER	user_985	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	High School/GED	Employed	Living with partner	Conservative	Other	user_986	2019-12-01 14:37:17.824203
+first_batch_678	RECOMMENDER	user_987	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Moderate	Atheist	user_257	2019-12-01 14:56:39.171641
+first_batch_679	RECOMMENDER	user_988	Agree	Agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_989	2019-12-01 14:59:47.105416
+first_batch_680	RECOMMENDER	user_386	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_990	2019-12-01 15:04:09.763745
+first_batch_681	RECOMMENDER	user_991	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_992	2019-12-01 15:04:29.202385
+first_batch_682	RECOMMENDER	user_993	Agree	Agree	18 - 24	Female	African	High School/GED	University Student	Never been married	Liberal	Other	user_317	2019-12-01 15:20:57.909346
+first_batch_683	RECOMMENDER	user_994	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Protestant	user_995	2019-12-01 15:38:36.942529
+first_batch_684	RECOMMENDER	user_996	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_997	2019-12-01 15:43:29.735121
+first_batch_685	RECOMMENDER	user_76	Strongly agree	Strongly agree	35 - 44	Female	Hispanic/Latino	Associate Degree	Employed	Divorced	Moderate	Roman Catholic	user_998	2019-12-01 15:54:02.125908
+first_batch_686	RECOMMENDER	user_999	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_1000	2019-12-01 16:05:00.553154
+first_batch_687	RECOMMENDER	user_1001	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1002	2019-12-01 16:12:07.095514
+first_batch_688	RECOMMENDER	user_1003	Agree	Agree	45 - 54	Male	East Asian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_641	2019-12-04 23:06:48.123235
+first_batch_690	RECOMMENDER	user_304	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_1004	2019-12-05 06:08:21.200870
+first_batch_691	RECOMMENDER	user_1005	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1006	2019-12-05 07:13:56.645980
+first_batch_692	RECOMMENDER	user_1007	Strongly agree	Strongly agree	18 - 24	Male	South Asian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Other	user_373	2019-12-05 07:14:06.892057
+first_batch_693	RECOMMENDER	user_1008	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_1009	2019-12-05 07:38:27.232623
+first_batch_694	RECOMMENDER	user_1010	Strongly agree	Strongly agree	55 - 74	Male	Caucasian	Master	Employed	Divorced	Moderate	Atheist	user_918	2019-12-05 07:44:30.162239
+first_batch_695	RECOMMENDER	user_1011	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Married	Moderate	Other	user_1012	2019-12-05 09:02:55.193822
+first_batch_696	RECOMMENDER	user_870	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_1013	2019-12-05 09:27:44.947705
+first_batch_697	RECOMMENDER	user_870	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Protestant	user_1014	2019-12-05 09:46:53.912269
+first_batch_698	RECOMMENDER	user_1015	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Buddhist	user_1016	2019-12-05 10:37:58.207544
+first_batch_699	RECOMMENDER	user_1017	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_821	2019-12-05 10:40:10.296016
+first_batch_700	RECOMMENDER	user_126	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Vocational Training	Employed	Married	Moderate	Other	user_1018	2019-12-05 10:44:31.873508
+first_batch_701	RECOMMENDER	user_97	Strongly agree	Strongly agree	18 - 24	Male	Southeast Asian	Associate Degree	Employed	Never been married	Moderate	Atheist	user_1019	2019-12-05 11:21:09.935028
+first_batch_702	RECOMMENDER	user_5	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Divorced	Moderate	Protestant	user_1020	2019-12-05 11:32:54.459166
+first_batch_703	RECOMMENDER	user_1021	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	University Student	Living with partner	Liberal	Atheist	user_1022	2019-12-05 11:37:03.728184
+first_batch_704	RECOMMENDER	user_1023	Strongly agree	Strongly agree	25 - 34	Female	Native American/American Indian/Alaskan Native	Associate Degree	Non-university student	Never been married	Moderate	Other	user_386	2019-12-05 11:46:43.657812
+first_batch_705	RECOMMENDER	user_4	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Conservative	Atheist	user_1024	2019-12-05 11:49:00.056899
+first_batch_706	RECOMMENDER	user_1025	Strongly disagree	Strongly agree	25 - 34	Female	Native American/American Indian/Alaskan Native	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_44	2019-12-05 12:18:02.295823
+first_batch_707	RECOMMENDER	user_1026	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_1027	2019-12-05 12:21:31.690495
+first_batch_708	RECOMMENDER	user_1028	Strongly disagree	Strongly disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1029	2019-12-05 12:27:31.776371
+first_batch_709	RECOMMENDER	user_1030	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1031	2019-12-05 12:38:05.872189
+first_batch_710	RECOMMENDER	user_1032	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Homemaker	Married	Conservative	Other	user_1033	2019-12-05 12:47:44.926321
+first_batch_711	RECOMMENDER	user_1034	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Vocational Training	Employed	Never been married	Moderate	Other	user_1035	2019-12-05 12:59:17.067787
+first_batch_712	RECOMMENDER	user_1026	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Moderate	Protestant	user_579	2019-12-05 13:18:36.781892
+first_batch_713	RECOMMENDER	user_562	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_1036	2020-02-21 14:53:22.297313
+first_batch_714	RECOMMENDER	user_1037	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Roman Catholic	user_404	2020-02-21 15:03:57.018109
+first_batch_715	RECOMMENDER	user_509	Disagree	Disagree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Liberal	Atheist	user_562	2020-02-21 15:20:22.873077
+first_batch_716	RECOMMENDER	user_444	Agree	Agree	25 - 34	Male	East Asian	Doctorate	Employed	Living with partner	Moderate	Roman Catholic	user_1038	2020-02-21 15:21:38.746173
+first_batch_717	RECOMMENDER	user_1039	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Roman Catholic	user_1040	2020-02-21 17:05:56.358239
+first_batch_718	RECOMMENDER	user_80	Agree	Agree	25 - 34	Male	African	Vocational Training	Employed	Never been married	Liberal	Roman Catholic	user_504	2020-02-21 17:15:58.025896
+first_batch_719	RECOMMENDER	user_568	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Liberal	Protestant	user_1041	2020-02-21 17:56:50.251650
+first_batch_720	RECOMMENDER	user_581	Neither agree nor disagree	Neither agree nor disagree	35 - 44	Female	Caucasian	High School/GED	Unable to Work	Never been married	Moderate	Other	user_1042	2020-02-21 18:34:36.446835
+first_batch_721	RECOMMENDER	user_598	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	Employed	Married	Moderate	Other	user_851	2020-02-21 19:02:42.107516
+first_batch_722	RECOMMENDER	user_581	Neither agree nor disagree	Neither agree nor disagree	35 - 44	Female	Caucasian	High School/GED	Unable to Work	Never been married	Moderate	Other	user_1043	2020-02-21 19:16:35.039830
+first_batch_723	RECOMMENDER	user_1044	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Conservative	Protestant	user_1045	2020-02-21 19:23:35.671189
+first_batch_724	RECOMMENDER	user_1046	Agree	Agree	55 - 74	Male	Caucasian	"Professional Postgraduate Degree (Medical, Law, etc)"	Retired	Divorced	Liberal	Other	user_1047	2020-02-21 19:48:18.495449
+first_batch_725	RECOMMENDER	user_1048	Strongly agree	Agree	18 - 24	Male	Caucasian	No Degree	Employed	Never been married	Conservative	Protestant	user_1049	2020-02-21 20:02:26.746182
+first_batch_726	RECOMMENDER	user_444	Agree	Agree	25 - 34	Male	East Asian	Doctorate	Employed	Living with partner	Moderate	Roman Catholic	user_1050	2020-02-21 20:23:47.094708
+first_batch_727	RECOMMENDER	user_1051	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Other	user_444	2020-02-21 20:48:52.657353
+first_batch_728	RECOMMENDER	user_1052	Strongly agree	Strongly agree	35 - 44	Male	African	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1053	2020-02-21 21:26:20.164850
+first_batch_729	RECOMMENDER	user_1054	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Living with partner	Moderate	Protestant	user_1055	2020-02-21 23:15:08.142298
+first_batch_730	RECOMMENDER	user_1056	Agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Non-university student	Never been married	Moderate	Protestant	user_1057	2020-02-22 01:11:49.509596
+first_batch_731	RECOMMENDER	user_1058	Agree	Agree	18 - 24	Female	African	Associate Degree	University Student	Never been married	Liberal	Protestant	user_1059	2020-02-22 08:08:01.459170
+first_batch_732	RECOMMENDER	user_1060	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1061	2020-02-22 08:28:00.676103
+first_batch_733	RECOMMENDER	user_962	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Liberal	Atheist	user_1062	2020-02-22 10:06:27.853789
+first_batch_734	RECOMMENDER	user_562	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	No Degree	Employed	Never been married	Moderate	Atheist	user_1063	2020-02-22 11:29:25.878041
+first_batch_735	RECOMMENDER	user_1064	Strongly disagree	Strongly disagree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Other	user_1065	2020-02-22 11:36:56.716044
+first_batch_736	RECOMMENDER	user_1066	Agree	Agree	18 - 24	Male	Caucasian	Associate Degree	University Student	Never been married	Moderate	Other	user_1067	2020-02-22 12:18:46.498022
+first_batch_737	RECOMMENDER	user_1068	Agree	Agree	18 - 24	Female	South Asian	High School/GED	Employed	Living with partner	Liberal	Atheist	user_1069	2020-02-22 13:39:27.663627
+first_batch_738	RECOMMENDER	user_1070	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Protestant	user_1071	2020-02-22 14:34:31.164944
+first_batch_739	RECOMMENDER	user_1072	Strongly disagree	Strongly disagree	25 - 34	Female	African	Master	Non-university student	Never been married	Liberal	Other	user_1073	2020-02-22 16:07:43.866947
+first_batch_740	RECOMMENDER	user_1074	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Employed	Separated	Conservative	Roman Catholic	user_1075	2020-02-22 18:23:48.120201
+first_batch_741	RECOMMENDER	user_1076	Strongly agree	Agree	18 - 24	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Conservative	Mormon	user_1077	2020-02-22 19:08:08.153274
+first_batch_742	RECOMMENDER	user_1078	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Married	Liberal	Jewish	user_1079	2020-02-22 19:12:17.423227
+first_batch_743	RECOMMENDER	user_1080	Strongly agree	Strongly agree	45 - 54	Male	Native American/American Indian/Alaskan Native	Associate Degree	Employed	Married	Liberal	Atheist	user_1081	2020-02-22 19:20:42.651170
+first_batch_744	RECOMMENDER	user_1082	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1083	2020-02-22 19:30:57.632397
+first_batch_745	RECOMMENDER	user_1084	Strongly agree	Strongly agree	18 - 24	Female	African	No Degree	Employed	Never been married	Moderate	Other	user_557	2020-02-22 19:45:32.147899
+first_batch_746	RECOMMENDER	user_1085	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_1086	2020-02-22 19:49:32.305123
+first_batch_747	RECOMMENDER	user_1087	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Living with partner	Moderate	Other	user_1088	2020-02-22 23:29:18.833997
+first_batch_748	RECOMMENDER	user_1089	Disagree	Agree	18 - 24	Female	Southeast Asian	High School/GED	Employed	Living with partner	Moderate	Protestant	user_1090	2020-02-23 00:44:03.765592
+first_batch_749	RECOMMENDER	user_1091	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_1092	2020-02-23 05:09:41.765380
+first_batch_751	RECOMMENDER	user_1093	Neither agree nor disagree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Mormon	user_1094	2020-02-23 07:34:11.547644
+first_batch_752	RECOMMENDER	user_1095	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Conservative	Other	user_1096	2020-02-23 08:34:14.384998
+first_batch_753	RECOMMENDER	user_1097	Disagree	Disagree	18 - 24	Male	African	No Degree	Employed	Never been married	Moderate	Atheist	user_1098	2020-02-23 08:57:46.751480
+first_batch_754	RECOMMENDER	user_1099	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Protestant	user_1100	2020-02-23 09:00:24.652646
+first_batch_755	RECOMMENDER	user_1101	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Atheist	user_1102	2020-02-23 09:52:37.117229
+first_batch_756	RECOMMENDER	user_681	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_1103	2020-02-23 12:32:54.092940
+first_batch_757	RECOMMENDER	user_1104	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Other	user_76	2020-02-23 12:56:53.675209
+first_batch_758	RECOMMENDER	user_1105	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Master	University Student	Never been married	Liberal	Atheist	user_1106	2020-02-23 16:07:36.246260
+first_batch_759	RECOMMENDER	user_1107	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Atheist	user_1108	2020-02-23 16:23:51.488793
+first_batch_760	RECOMMENDER	user_1109	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	High School/GED	Employed	Living with partner	Moderate	Roman Catholic	user_1110	2020-02-23 17:14:53.343341
+first_batch_761	RECOMMENDER	user_1111	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_1112	2020-02-23 18:21:09.306412
+first_batch_762	RECOMMENDER	user_1064	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Protestant	user_1113	2020-02-23 19:09:26.335965
+first_batch_763	RECOMMENDER	user_1114	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Married	Conservative	Protestant	user_1115	2020-02-23 20:37:52.574519
+first_batch_764	RECOMMENDER	user_1116	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Roman Catholic	user_1117	2020-02-23 21:54:28.881002
+first_batch_765	RECOMMENDER	user_1118	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	Non-university student	Never been married	Moderate	Roman Catholic	user_1119	2020-02-24 03:16:12.302700
+first_batch_766	RECOMMENDER	user_1120	Agree	Strongly agree	18 - 24	Other	Caucasian	High School/GED	Unable to Work	Never been married	Moderate	Other	user_1121	2020-02-24 05:24:39.238403
+first_batch_767	RECOMMENDER	user_1008	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_1122	2020-02-24 06:17:18.779714
+first_batch_768	RECOMMENDER	user_1123	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_1124	2020-02-24 07:18:49.499970
+first_batch_769	RECOMMENDER	user_1125	Disagree	Disagree	55 - 74	Male	Caucasian	Master	Employed	Divorced	Moderate	Other	user_1093	2020-02-24 07:36:47.379771
+second_batch_0	RECOMMENDER	user_1126	Agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Married	Conservative	Mormon	user_1127	2020-02-24 15:18:11.313994
+second_batch_2	RECOMMENDER	user_1128	Agree	Agree	45 - 54	Female	Caucasian	"Professional Postgraduate Degree (Medical	 Law	 etc)"	Employed	Married	Liberal	Protestant	user_1129	2020-02-24 15:54:11.725253
+second_batch_3	RECOMMENDER	user_1130	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Vocational Training	Employed	Living with partner	Moderate	Roman Catholic	user_1131	2020-02-24 16:04:47.237591
+second_batch_4	RECOMMENDER	user_1132	Strongly agree	Strongly agree	55 - 74	Female	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_1133	2020-02-24 16:10:53.725392
+second_batch_5	RECOMMENDER	user_1134	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Other	user_1135	2020-02-24 16:48:40.680942
+second_batch_6	RECOMMENDER	user_1136	Agree	Neither agree nor disagree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1137	2020-02-24 17:01:34.318126
+second_batch_7	RECOMMENDER	user_1138	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Conservative	Other	user_1139	2020-02-24 17:09:31.686230
+second_batch_8	RECOMMENDER	user_875	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Atheist	user_1140	2020-02-24 17:25:31.656688
+second_batch_9	RECOMMENDER	user_1141	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1142	2020-02-24 17:27:51.914620
+second_batch_10	RECOMMENDER	user_1143	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	Employed	Never been married	Moderate	Protestant	user_1144	2020-02-24 18:59:01.465313
+second_batch_11	RECOMMENDER	user_1145	Strongly agree	Agree	45 - 54	Male	East Asian	Master	Employed	Married	Moderate	Buddhist	user_1146	2020-02-24 20:08:33.193571
+second_batch_13	RECOMMENDER	user_1147	Strongly disagree	Strongly disagree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1148	2020-02-25 07:08:46.069582
+second_batch_14	RECOMMENDER	user_1149	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Homemaker	Married	Liberal	Other	user_1150	2020-02-25 08:33:31.448578
+second_batch_15	RECOMMENDER	user_1151	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Roman Catholic	user_1152	2020-02-25 08:33:37.186463
+second_batch_16	RECOMMENDER	user_1153	Strongly agree	Strongly agree	25 - 34	Female	Native American/American Indian/Alaskan Native	High School/GED	Employed	Divorced	Conservative	Protestant	user_1130	2020-02-25 09:36:41.248835
+second_batch_18	RECOMMENDER	user_1154	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Associate Degree	University Student	Never been married	Conservative	Other	user_1155	2020-02-25 10:32:22.477424
+second_batch_19	RECOMMENDER	user_1156	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Homemaker	Married	Conservative	Protestant	user_1157	2020-02-25 11:29:10.736486
+second_batch_20	RECOMMENDER	user_1158	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_1159	2020-02-25 12:46:05.375171
+second_batch_21	RECOMMENDER	user_1160	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Roman Catholic	user_1161	2020-02-25 13:06:59.287069
+second_batch_22	RECOMMENDER	user_1162	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Other	user_1163	2020-02-25 13:12:51.675721
+second_batch_23	RECOMMENDER	user_1164	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_1165	2020-02-26 06:36:09.839336
+second_batch_24	RECOMMENDER	user_109	Agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Never been married	Moderate	Protestant	user_1166	2020-02-26 07:56:30.412200
+second_batch_26	RECOMMENDER	user_1167	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Master	Employed	Married	Liberal	Protestant	user_1168	2020-02-26 08:03:42.054600
+second_batch_27	RECOMMENDER	user_1169	Strongly agree	Strongly agree	18 - 24	Male	South Asian	Master	Employed	Never been married	Moderate	Muslim	user_1170	2020-02-26 10:51:48.054161
+second_batch_28	RECOMMENDER	user_1171	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_1172	2020-02-26 10:56:54.213673
+second_batch_29	RECOMMENDER	user_326	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1173	2020-02-26 11:15:28.644253
+second_batch_30	RECOMMENDER	user_1174	Disagree	Strongly agree	25 - 34	Female	Hispanic/Latino	Vocational Training	Employed	Never been married	Moderate	Protestant	user_1175	2020-02-26 12:18:00.701214
+second_batch_31	RECOMMENDER	user_1176	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1177	2020-02-26 12:57:44.456045
+second_batch_32	RECOMMENDER	user_1178	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Other	user_1179	2020-02-26 20:07:18.823906
+second_batch_33	RECOMMENDER	user_1180	Neither agree nor disagree	Agree	35 - 44	Male	African	Vocational Training	Employed	Married	Moderate	Other	user_1181	2020-02-26 21:48:34.097880
+second_batch_34	RECOMMENDER	user_1059	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Master	Employed	Never been married	Conservative	Atheist	user_1182	2020-02-27 07:55:22.235059
+second_batch_35	RECOMMENDER	user_1183	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Married	Liberal	Atheist	user_1184	2020-02-27 08:27:07.705567
+second_batch_36	RECOMMENDER	user_1185	Strongly agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Homemaker	Living with partner	Liberal	Other	user_1186	2020-02-27 09:25:48.281764
+second_batch_37	RECOMMENDER	user_1187	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Mormon	user_986	2020-02-27 09:30:12.938401
+second_batch_38	RECOMMENDER	user_1188	Strongly agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1189	2020-02-27 09:55:29.877042
+second_batch_39	RECOMMENDER	user_1190	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Divorced	Moderate	Mormon	user_1191	2020-02-27 10:05:35.248774
+second_batch_40	RECOMMENDER	user_1192	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1193	2020-02-27 11:34:00.525761
+second_batch_41	RECOMMENDER	user_1192	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1194	2020-02-27 12:08:14.445370
+second_batch_42	RECOMMENDER	user_1195	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1196	2020-02-27 13:03:16.889732
+second_batch_43	RECOMMENDER	user_1197	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Divorced	Moderate	Protestant	user_1198	2020-02-27 14:30:51.512631
+second_batch_44	RECOMMENDER	user_1199	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Roman Catholic	user_1200	2020-02-27 14:35:17.678814
+second_batch_45	RECOMMENDER	user_1201	Agree	Agree	18 - 24	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_1202	2020-02-27 16:44:08.311752
+second_batch_47	RECOMMENDER	user_1203	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Atheist	user_1204	2020-02-27 19:10:47.118652
+second_batch_48	RECOMMENDER	user_1205	Strongly agree	Strongly agree	25 - 34	Female	East Asian	Bachelor/4-year Degree	Non-university student	Married	Liberal	Other	user_1206	2020-02-27 19:37:15.027834
+second_batch_49	RECOMMENDER	user_1207	Agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Never been married	Conservative	Roman Catholic	user_1208	2020-02-27 22:37:49.159278
+second_batch_50	RECOMMENDER	user_1209	Strongly agree	Strongly agree	25 - 34	Male	Other	High School/GED	Employed	Married	Conservative	Other	user_1210	2020-02-27 23:32:38.336218
+second_batch_51	RECOMMENDER	user_1192	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1211	2020-02-28 01:29:55.184625
+second_batch_52	RECOMMENDER	user_1212	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Vocational Training	Employed	Never been married	Liberal	Hindu	user_1213	2020-02-28 04:39:07.819802
+second_batch_53	RECOMMENDER	user_1214	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	High School/GED	Employed	Living with partner	Conservative	Hindu	user_1215	2020-02-28 05:16:14.147069
+second_batch_54	RECOMMENDER	user_1216	Strongly agree	Strongly agree	25 - 34	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Conservative	Other	user_1214	2020-02-28 06:25:26.379121
+second_batch_55	RECOMMENDER	user_1217	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Liberal	Other	user_1218	2020-02-28 07:12:03.682379
+second_batch_56	RECOMMENDER	user_1219	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1220	2020-02-28 09:42:08.506257
+second_batch_57	RECOMMENDER	user_1221	Agree	Agree	45 - 54	Male	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_1222	2020-02-28 22:37:37.421241
+second_batch_58	RECOMMENDER	user_1130	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	"Professional Postgraduate Degree (Medical	 Law	 etc)"	Employed	Living with partner	Moderate	Roman Catholic	user_1223	2020-02-29 01:23:55.570447
+second_batch_59	RECOMMENDER	user_1224	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Other	user_1225	2020-02-29 11:28:55.914175
+second_batch_60	RECOMMENDER	user_1226	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	Vocational Training	Employed	Divorced	Moderate	Roman Catholic	user_1227	2020-02-29 13:20:07.169707
+second_batch_61	RECOMMENDER	user_1228	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Roman Catholic	user_1229	2020-02-29 22:23:02.974875
+second_batch_62	RECOMMENDER	user_1230	Agree	Agree	45 - 54	Female	Other	Associate Degree	Employed	Divorced	Moderate	Protestant	user_1231	2020-03-01 04:02:45.940784
+second_batch_63	RECOMMENDER	user_1232	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1233	2020-03-01 08:51:56.940386
+second_batch_64	RECOMMENDER	user_1234	Strongly agree	Strongly agree	35 - 44	Female	African	High School/GED	Employed	Married	Liberal	Atheist	user_1235	2020-03-01 09:50:15.855751
+second_batch_65	RECOMMENDER	user_1236	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1237	2020-03-01 11:27:48.501709
+second_batch_66	RECOMMENDER	user_1112	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Moderate	Protestant	user_1238	2020-03-01 16:36:43.631307
+second_batch_67	RECOMMENDER	user_1239	Agree	Agree	35 - 44	Female	Caucasian	Master	Employed	Married	Liberal	Other	user_1112	2020-03-01 17:11:28.310199
+second_batch_68	RECOMMENDER	user_1240	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Protestant	user_1241	2020-03-01 19:00:04.484817
+second_batch_69	RECOMMENDER	user_1242	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Atheist	user_1243	2020-03-02 15:08:28.960029
+second_batch_70	RECOMMENDER	user_1244	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Vocational Training	Homemaker	Married	Conservative	Protestant	user_1245	2020-03-02 15:31:53.942917
+second_batch_71	RECOMMENDER	user_1246	Strongly agree	Strongly agree	18 - 24	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1247	2020-03-02 16:01:02.620429
+second_batch_73	RECOMMENDER	user_1248	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Conservative	Other	user_1249	2020-03-02 16:35:25.342457
+second_batch_74	RECOMMENDER	user_1250	Agree	Agree	25 - 34	Male	African	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1251	2020-03-02 17:45:31.296341
+second_batch_76	RECOMMENDER	user_1252	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1253	2020-03-03 05:40:12.252761
+second_batch_77	RECOMMENDER	user_1254	Agree	Agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Living with partner	Conservative	Roman Catholic	user_1255	2020-03-03 15:07:59.520255
+second_batch_78	RECOMMENDER	user_1256	Agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Never been married	Liberal	Other	user_1257	2020-03-04 18:58:42.250410
+second_batch_79	RECOMMENDER	user_1258	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	University Student	Married	Moderate	Protestant	user_1259	2020-03-04 19:27:10.202988
+second_batch_80	RECOMMENDER	user_1260	Strongly agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1255	2020-03-04 19:36:43.244053
+second_batch_81	RECOMMENDER	user_1261	Strongly agree	Strongly agree	25 - 34	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1262	2020-03-04 21:17:26.828768
+second_batch_82	RECOMMENDER	user_1263	Agree	Agree	25 - 34	Female	Caucasian	No Degree	University Student	Living with partner	Moderate	Protestant	user_1245	2020-03-05 07:20:44.083434
+second_batch_83	RECOMMENDER	user_1264	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_1265	2020-03-05 07:54:26.117476
+second_batch_84	RECOMMENDER	user_1266	Strongly disagree	Strongly disagree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_1267	2020-03-05 07:56:01.399654
+second_batch_85	RECOMMENDER	user_1268	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Homemaker	Living with partner	Moderate	Roman Catholic	user_1269	2020-03-05 08:34:18.463014
+second_batch_86	RECOMMENDER	user_1270	Strongly agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Atheist	user_402	2020-03-05 09:33:51.816049
+second_batch_87	RECOMMENDER	user_1271	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Roman Catholic	user_1272	2020-03-05 10:20:01.031078
+second_batch_88	RECOMMENDER	user_1273	Strongly agree	Strongly agree	25 - 34	Female	South Asian	Master	Employed	Married	Liberal	Hindu	user_377	2020-03-05 10:24:12.720616
+second_batch_89	RECOMMENDER	user_502	Strongly agree	Strongly agree	45 - 54	Male	Other	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_1274	2020-03-05 10:57:18.303251
+second_batch_90	RECOMMENDER	user_1275	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Atheist	user_1276	2020-03-05 11:24:34.913491
+second_batch_91	RECOMMENDER	user_1277	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Protestant	user_1159	2020-03-05 14:37:30.035338
+second_batch_92	RECOMMENDER	user_1278	Agree	Agree	25 - 34	Female	Caucasian	Associate Degree	Homemaker	Married	Moderate	Protestant	user_1279	2020-03-05 17:02:54.085859
+second_batch_93	RECOMMENDER	user_1280	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Jewish	user_1281	2020-03-05 19:42:46.268952
+second_batch_94	RECOMMENDER	user_1282	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Retired	Married	Conservative	Protestant	user_1283	2020-03-05 21:49:51.912865
+second_batch_95	RECOMMENDER	user_1284	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Widowed	Conservative	Other	user_1285	2020-03-06 06:22:45.462226
+second_batch_96	RECOMMENDER	user_1286	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Orthodox	user_1287	2020-03-06 06:24:04.284516
+second_batch_97	RECOMMENDER	user_1288	Strongly agree	Agree	45 - 54	Female	Caucasian	Vocational Training	Employed	Divorced	Conservative	Protestant	user_1289	2020-03-06 06:41:49.788418
+second_batch_98	RECOMMENDER	user_1290	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1291	2020-03-06 07:16:24.772812
+second_batch_99	RECOMMENDER	user_1292	Agree	Strongly agree	25 - 34	Male	African	High School/GED	Employed	Never been married	Conservative	Jewish	user_1293	2020-03-06 07:16:52.914070
+second_batch_100	RECOMMENDER	user_1294	Agree	Agree	35 - 44	Female	Caucasian	Doctorate	Employed	Married	Liberal	Orthodox	user_1295	2020-03-06 07:26:06.651372
+second_batch_101	RECOMMENDER	user_1290	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1296	2020-03-06 07:49:01.278121
+second_batch_102	RECOMMENDER	user_1297	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Living with partner	Liberal	Roman Catholic	user_1298	2020-03-06 10:34:47.142932
+second_batch_103	RECOMMENDER	user_1299	Strongly agree	Strongly agree	18 - 24	Male	Hispanic/Latino	High School/GED	Employed	Never been married	Liberal	Protestant	user_1300	2020-03-06 12:54:37.492441
+second_batch_104	RECOMMENDER	user_1301	Agree	Agree	35 - 44	Female	Caucasian	"Professional Postgraduate Degree (Medical	 Law	 etc)"	Employed	Married	Liberal	Mormon	user_1302	2020-03-06 13:05:35.000014
+second_batch_105	RECOMMENDER	user_1303	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Other	user_1304	2020-03-06 16:13:34.390209
+second_batch_106	RECOMMENDER	user_1303	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Atheist	user_1305	2020-03-06 16:29:32.476937
+second_batch_107	RECOMMENDER	user_1306	Strongly agree	Strongly agree	45 - 54	Male	East Asian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1307	2020-03-06 17:01:28.375173
+second_batch_108	RECOMMENDER	user_1277	Agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Protestant	user_901	2020-03-06 17:17:57.178703
+second_batch_109	RECOMMENDER	user_1256	Agree	Agree	35 - 44	Female	Caucasian	Associate Degree	Employed	Never been married	Liberal	Other	user_1308	2020-03-06 20:41:43.042363
+second_batch_110	RECOMMENDER	user_1309	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Protestant	user_1310	2020-03-07 05:13:48.955462
+second_batch_111	RECOMMENDER	user_1311	Agree	Agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_1312	2020-03-07 06:47:52.968104
+second_batch_113	RECOMMENDER	user_1313	Strongly agree	Strongly agree	18 - 24	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_1314	2020-03-07 09:17:38.387788
+second_batch_114	RECOMMENDER	user_1303	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Atheist	user_1315	2020-03-07 13:48:59.086686
+second_batch_115	RECOMMENDER	user_1280	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Jewish	user_1316	2020-03-07 14:10:29.838669
+second_batch_116	RECOMMENDER	user_1317	Strongly agree	Strongly agree	25 - 34	Female	East Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1318	2020-03-07 15:42:37.954057
+second_batch_117	RECOMMENDER	user_1285	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_1319	2020-03-08 12:04:50.837154
+second_batch_118	RECOMMENDER	user_1320	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1321	2020-03-08 12:24:38.537567
+second_batch_119	RECOMMENDER	user_1303	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Atheist	user_1322	2020-03-08 13:46:50.724816
+second_batch_120	RECOMMENDER	user_1323	Agree	Agree	25 - 34	Female	East Asian	Master	Employed	Living with partner	Moderate	Other	user_1105	2020-03-08 16:13:47.819464
+second_batch_121	RECOMMENDER	user_1324	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Never been married	Conservative	Other	user_1325	2020-03-08 16:43:06.940451
+second_batch_122	RECOMMENDER	user_1326	Agree	Agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1327	2020-03-08 17:12:29.725916
+second_batch_123	RECOMMENDER	user_1328	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_1329	2020-03-08 18:45:07.820672
+second_batch_124	RECOMMENDER	user_1330	Strongly agree	Strongly agree	18 - 24	Female	African	Bachelor/4-year Degree	University Student	Never been married	Liberal	Other	user_1331	2020-03-08 19:45:28.228143
+second_batch_125	RECOMMENDER	user_1332	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Jewish	user_1333	2020-03-08 21:42:32.052925
+second_batch_126	RECOMMENDER	user_1334	Agree	Agree	25 - 34	Male	East Asian	Master	Employed	Living with partner	Moderate	Atheist	user_1335	2020-03-09 00:12:24.029349
+second_batch_127	RECOMMENDER	user_1336	Neither agree nor disagree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Other	user_1337	2020-03-09 01:13:03.654052
+second_batch_128	RECOMMENDER	user_1338	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	High School/GED	Employed	Never been married	Moderate	Buddhist	user_1040	2020-03-09 07:16:06.180945
+second_batch_129	RECOMMENDER	user_1339	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_609	2020-03-09 08:59:13.483120
+second_batch_130	RECOMMENDER	user_1340	Agree	Agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Employed	Married	Liberal	Jewish	user_1341	2020-03-09 10:17:47.798809
+second_batch_131	RECOMMENDER	user_1342	Strongly agree	Agree	25 - 34	Female	African	Associate Degree	Employed	Never been married	Liberal	Protestant	user_1343	2020-03-09 10:24:37.039314
+second_batch_132	RECOMMENDER	user_1344	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1345	2020-03-09 12:05:06.157957
+second_batch_133	RECOMMENDER	user_1303	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Atheist	user_93	2020-03-09 14:01:32.494191
+second_batch_134	RECOMMENDER	user_1346	Strongly agree	Strongly agree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1347	2020-03-09 14:59:42.024584
+second_batch_135	RECOMMENDER	user_1348	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Conservative	Protestant	user_1349	2020-03-09 15:06:30.533893
+second_batch_136	RECOMMENDER	user_1350	Agree	Agree	55 - 74	Male	Caucasian	Bachelor/4-year Degree	Retired	Living with partner	Conservative	Protestant	user_1351	2020-03-09 15:47:11.055420
+second_batch_137	RECOMMENDER	user_1352	Strongly agree	Strongly agree	25 - 34	Female	African	Associate Degree	Employed	Never been married	Liberal	Protestant	user_1353	2020-03-09 16:49:18.108975
+second_batch_138	RECOMMENDER	user_1354	Agree	Agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Other	user_1355	2020-03-09 18:22:49.620340
+second_batch_139	RECOMMENDER	user_1356	Strongly agree	Agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_1303	2020-03-09 19:03:07.629938
+second_batch_140	RECOMMENDER	user_1357	Strongly agree	Strongly agree	25 - 34	Male	African	Bachelor/4-year Degree	Non-university student	Never been married	Liberal	Other	user_1358	2020-03-10 03:36:58.243942
+second_batch_141	RECOMMENDER	user_1285	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_452	2020-03-10 08:45:12.893563
+second_batch_142	RECOMMENDER	user_1359	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1360	2020-03-10 11:48:48.174906
+second_batch_143	RECOMMENDER	user_1361	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Other	user_1362	2020-03-10 17:44:07.372306
+second_batch_145	RECOMMENDER	user_1363	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1364	2020-03-11 00:09:55.146440
+second_batch_146	RECOMMENDER	user_1365	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Living with partner	Moderate	Other	user_1366	2020-03-11 07:56:30.406709
+second_batch_147	RECOMMENDER	user_1367	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Married	Liberal	Atheist	user_1368	2020-03-11 09:58:18.861381
+second_batch_148	RECOMMENDER	user_1369	Agree	Agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Moderate	Protestant	user_1370	2020-03-11 10:05:09.702722
+second_batch_149	RECOMMENDER	user_1371	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Associate Degree	Employed	Divorced	Conservative	Other	user_1372	2020-03-11 12:35:25.602777
+second_batch_150	RECOMMENDER	user_1373	Agree	Agree	45 - 54	Male	Caucasian	High School/GED	Employed	Married	Liberal	Roman Catholic	user_1374	2020-03-11 17:02:35.967311
+second_batch_151	RECOMMENDER	user_1375	Agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Unable to Work	Never been married	Liberal	Atheist	user_1376	2020-03-11 19:01:26.779155
+second_batch_152	RECOMMENDER	user_1377	Agree	Agree	35 - 44	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Other	user_1378	2020-03-11 19:29:09.742916
+second_batch_153	RECOMMENDER	user_1230	Strongly agree	Strongly agree	45 - 54	Female	Other	Associate Degree	Employed	Divorced	Moderate	Protestant	user_1379	2020-03-12 00:10:59.699923
+second_batch_154	RECOMMENDER	user_1380	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1381	2020-03-12 06:06:20.042419
+third_batch_0	RECOMMENDER	user_1382	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Homemaker	Married	Conservative	Protestant	user_1383	2020-03-17 13:51:14.962726
+third_batch_1	RECOMMENDER	user_1384	Agree	Agree	18 - 24	Male	Caucasian	No Degree	Employed	Never been married	Liberal	Roman Catholic	user_901	2020-03-17 14:17:46.834273
+third_batch_2	RECOMMENDER	user_1385	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	High School/GED	University Student	Never been married	Liberal	Atheist	user_1386	2020-03-17 14:39:16.564444
+third_batch_3	RECOMMENDER	user_1387	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Moderate	Jewish	user_1388	2020-03-17 15:04:08.488504
+third_batch_4	RECOMMENDER	user_1389	Strongly agree	Strongly agree	18 - 24	Male	Southeast Asian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_1390	2020-03-17 19:33:19.709748
+third_batch_5	RECOMMENDER	user_1391	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Master	Employed	Married	Liberal	Other	user_1392	2020-03-17 21:31:04.834067
+third_batch_6	RECOMMENDER	user_1393	Agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Atheist	user_1394	2020-03-17 22:05:27.346171
+third_batch_7	RECOMMENDER	user_1395	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Atheist	user_1396	2020-03-18 08:26:56.648334
+third_batch_8	RECOMMENDER	user_1397	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_1398	2020-03-18 08:48:04.894875
+third_batch_9	RECOMMENDER	user_1399	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Master	Employed	Married	Conservative	Protestant	user_1400	2020-03-18 10:23:12.590415
+third_batch_10	RECOMMENDER	user_1401	Strongly agree	Strongly agree	45 - 54	Female	Hispanic/Latino	Associate Degree	Employed	Married	Liberal	Roman Catholic	user_1402	2020-03-18 11:09:49.894305
+third_batch_11	RECOMMENDER	user_1403	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Liberal	Atheist	user_1404	2020-03-18 12:08:05.170611
+third_batch_13	RECOMMENDER	user_1405	Disagree	Disagree	25 - 34	Female	Hispanic/Latino	Bachelor/4-year Degree	Homemaker	Married	Conservative	Protestant	user_1406	2020-03-18 13:56:52.190704
+third_batch_14	RECOMMENDER	user_1407	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_1408	2020-03-18 14:28:11.768162
+third_batch_15	RECOMMENDER	user_1409	Agree	Agree	18 - 24	Female	Caucasian	Master	Employed	Never been married	Liberal	Protestant	user_1410	2020-03-18 16:52:01.602576
+third_batch_16	RECOMMENDER	user_1411	Strongly agree	Strongly agree	25 - 34	Male	South Asian	Master	Employed	Never been married	Moderate	Hindu	user_1412	2020-03-18 18:02:17.711472
+third_batch_17	RECOMMENDER	user_1413	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Protestant	user_1414	2020-03-18 19:28:07.718704
+third_batch_18	RECOMMENDER	user_1415	Strongly agree	Strongly agree	18 - 24	Female	African	Associate Degree	University Student	Never been married	Liberal	Muslim	user_1416	2020-03-18 20:16:06.045063
+third_batch_19	RECOMMENDER	user_1417	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	Bachelor/4-year Degree	Employed	Living with partner	Moderate	Atheist	user_1418	2020-03-18 20:52:42.853580
+third_batch_20	RECOMMENDER	user_1419	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_1420	2020-03-19 07:07:39.043612
+third_batch_21	RECOMMENDER	user_1421	Strongly agree	Strongly agree	25 - 34	Female	Other	Associate Degree	Homemaker	Never been married	Liberal	Other	user_1422	2020-03-19 09:01:49.738224
+third_batch_22	RECOMMENDER	user_1423	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	High School/GED	Homemaker	Married	Moderate	Roman Catholic	user_1424	2020-03-19 09:52:59.174697
+third_batch_23	RECOMMENDER	user_1425	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1426	2020-03-19 09:56:10.743957
+third_batch_24	RECOMMENDER	user_1427	Strongly agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Moderate	Orthodox	user_1428	2020-03-19 10:05:32.526216
+third_batch_25	RECOMMENDER	user_1425	Neither agree nor disagree	Neither agree nor disagree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Moderate	Other	user_1429	2020-03-19 10:34:40.524554
+third_batch_26	RECOMMENDER	user_1430	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Vocational Training	Homemaker	Living with partner	Moderate	Other	user_1431	2020-03-12 12:23:19.865413
+third_batch_27	RECOMMENDER	user_1432	Strongly agree	Strongly agree	55 - 74	Female	Caucasian	Associate Degree	Unable to Work	Widowed	Liberal	Other	user_1433	2020-03-12 14:48:13.014201
+third_batch_28	RECOMMENDER	user_1434	Agree	Agree	35 - 44	Male	Caucasian	High School/GED	Employed	Married	Conservative	Other	user_1059	2020-03-12 15:02:06.337151
+third_batch_29	RECOMMENDER	user_1346	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_1435	2020-03-12 15:27:49.572822
+third_batch_30	RECOMMENDER	user_1436	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Atheist	user_1437	2020-03-14 06:16:35.382321
+third_batch_31	RECOMMENDER	user_1060	Agree	Agree	25 - 34	Male	Caucasian	High School/GED	Employed	Married	Liberal	Protestant	user_1438	2020-03-14 10:27:00.740052
+third_batch_32	RECOMMENDER	user_1439	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Living with partner	Liberal	Other	user_1440	2020-03-14 13:49:16.532270
+third_batch_33	RECOMMENDER	user_1441	Strongly agree	Strongly agree	35 - 44	Female	Other	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_1442	2020-03-14 14:11:12.860146
+third_batch_34	RECOMMENDER	user_1443	Strongly agree	Strongly agree	18 - 24	Female	Hispanic/Latino	High School/GED	Homemaker	Married	Conservative	Mormon	user_1444	2020-03-14 15:21:42.384729
+third_batch_35	RECOMMENDER	user_1445	Strongly agree	Strongly agree	18 - 24	Female	East Asian	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_1446	2020-03-14 15:43:23.291552
+third_batch_36	RECOMMENDER	user_1146	Agree	Agree	18 - 24	Male	Hispanic/Latino	Bachelor/4-year Degree	University Student	Never been married	Liberal	Roman Catholic	user_1447	2020-03-14 17:56:06.308727
+third_batch_37	RECOMMENDER	user_1448	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Roman Catholic	user_1449	2020-03-14 18:48:35.751810
+third_batch_38	RECOMMENDER	user_1413	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_1450	2020-03-14 19:28:02.760533
+third_batch_39	RECOMMENDER	user_1159	Strongly disagree	Agree	55 - 74	Female	Caucasian	Associate Degree	Employed	Never been married	Conservative	Other	user_1451	2020-03-14 19:45:14.750934
+third_batch_40	RECOMMENDER	user_1452	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_1453	2020-03-14 20:08:15.373171
+third_batch_41	RECOMMENDER	user_1454	Agree	Strongly agree	45 - 54	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1455	2020-03-14 23:37:35.345800
+third_batch_42	RECOMMENDER	user_841	Agree	Agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Liberal	Other	user_1456	2020-03-15 07:47:44.973162
+third_batch_43	RECOMMENDER	user_1363	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_841	2020-03-15 08:17:13.612785
+third_batch_44	RECOMMENDER	user_1363	Agree	Agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Conservative	Roman Catholic	user_1457	2020-03-15 08:59:27.839031
+third_batch_45	RECOMMENDER	user_1452	Agree	Agree	45 - 54	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_1458	2020-03-15 12:47:18.925295
+third_batch_47	RECOMMENDER	user_1452	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	High School/GED	Employed	Never been married	Moderate	Roman Catholic	user_1459	2020-03-15 13:33:03.626176
+third_batch_48	RECOMMENDER	user_1348	Neither agree nor disagree	Disagree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Conservative	Protestant	user_1460	2020-03-15 17:34:56.997017
+third_batch_49	RECOMMENDER	user_1461	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_1462	2020-03-15 18:46:52.384488
+third_batch_50	RECOMMENDER	user_1463	Agree	Agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Retired	Married	Moderate	Other	user_1464	2020-03-15 19:24:28.300205
+third_batch_51	RECOMMENDER	user_1283	Strongly agree	Strongly agree	25 - 34	Female	African	No Degree	Employed	Never been married	Liberal	Protestant	user_1465	2020-03-15 20:03:53.606153
+third_batch_52	RECOMMENDER	user_1466	Agree	Strongly agree	25 - 34	Male	African	Master	Employed	Never been married	Conservative	Roman Catholic	user_1467	2020-03-16 04:38:10.770760
+third_batch_53	RECOMMENDER	user_1468	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Associate Degree	Employed	Divorced	Moderate	Other	user_1469	2020-03-16 14:34:00.409911
+third_batch_54	RECOMMENDER	user_247	Agree	Agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Liberal	Atheist	user_1470	2020-03-16 15:30:35.986770
+third_batch_55	RECOMMENDER	user_1471	Strongly agree	Strongly agree	25 - 34	Male	Pacific Islander	Associate Degree	Employed	Never been married	Conservative	Protestant	user_1472	2020-03-16 19:48:22.346258
+third_batch_56	RECOMMENDER	user_1473	Agree	Agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Divorced	Liberal	Roman Catholic	user_1474	2020-03-16 20:05:50.540534
+third_batch_57	RECOMMENDER	user_1475	Agree	Agree	18 - 24	Male	South Asian	Associate Degree	Employed	Never been married	Liberal	Other	user_1476	2020-03-16 21:47:07.138903
+third_batch_58	RECOMMENDER	user_1466	Agree	Agree	25 - 34	Male	African	Master	Employed	Never been married	Conservative	Roman Catholic	user_1477	2020-03-16 22:27:19.545615
+fourth_batch_0	RECOMMENDER	user_1478	Strongly agree	Strongly agree	18 - 24	Male	Hispanic/Latino	Associate Degree	University Student	Never been married	Liberal	Roman Catholic	user_1479	2020-03-19 18:07:19.104341
+fourth_batch_1	RECOMMENDER	user_1480	Agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Conservative	Other	user_1481	2020-03-19 18:11:54.331218
+fourth_batch_2	RECOMMENDER	user_1482	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Associate Degree	Employed	Never been married	Moderate	Atheist	user_1483	2020-03-19 18:38:28.838010
+fourth_batch_3	RECOMMENDER	user_1285	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Conservative	Roman Catholic	user_1484	2020-03-19 19:01:00.430398
+fourth_batch_4	RECOMMENDER	user_1485	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1486	2020-03-19 19:48:51.530179
+fourth_batch_5	RECOMMENDER	user_1487	Strongly agree	Strongly agree	45 - 54	Female	Caucasian	Master	Employed	Married	Liberal	Roman Catholic	user_1488	2020-03-19 20:07:44.242515
+fourth_batch_6	RECOMMENDER	user_1489	Strongly disagree	Strongly disagree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_1490	2020-03-19 20:07:51.255269
+fourth_batch_7	RECOMMENDER	user_1489	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Protestant	user_1487	2020-03-19 20:34:27.778448
+fourth_batch_8	RECOMMENDER	user_1491	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Living with partner	Moderate	Other	user_1383	2020-03-19 20:59:14.472239
+fourth_batch_9	RECOMMENDER	user_1492	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Atheist	user_1493	2020-03-20 12:31:11.425624
+fourth_batch_10	RECOMMENDER	user_1382	Agree	Agree	25 - 34	Female	Caucasian	High School/GED	Employed	Married	Conservative	Protestant	user_1494	2020-03-20 12:45:42.479338
+fourth_batch_11	RECOMMENDER	user_1495	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Liberal	Roman Catholic	user_1496	2020-03-20 12:56:52.170864
+fourth_batch_12	RECOMMENDER	user_1447	Disagree	Agree	18 - 24	Male	Southeast Asian	Bachelor/4-year Degree	University Student	Never been married	Moderate	Atheist	user_1497	2020-03-20 13:38:52.741735
+fourth_batch_13	RECOMMENDER	user_1498	Strongly agree	Strongly agree	18 - 24	Female	East Asian	High School/GED	University Student	Living with partner	Liberal	Protestant	user_1499	2020-03-20 16:52:08.367852
+fourth_batch_14	RECOMMENDER	user_1500	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Non-university student	Never been married	Liberal	Protestant	user_1501	2020-03-20 21:45:39.256605
+fourth_batch_15	RECOMMENDER	user_1502	Agree	Agree	18 - 24	Female	African	Vocational Training	Homemaker	Living with partner	Moderate	Other	user_1503	2020-03-21 07:45:55.415722
+fourth_batch_16	RECOMMENDER	user_1504	Strongly agree	Strongly agree	45 - 54	Male	Hispanic/Latino	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1505	2020-03-21 08:27:56.058520
+fourth_batch_17	RECOMMENDER	user_1506	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1507	2020-03-21 09:32:53.754011
+fourth_batch_18	RECOMMENDER	user_1508	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_1509	2020-03-21 11:15:48.618884
+fourth_batch_19	RECOMMENDER	user_1510	Strongly agree	Strongly agree	35 - 44	Male	Hispanic/Latino	No Degree	Employed	Married	Moderate	Other	user_1511	2020-03-21 11:44:07.528687
+fourth_batch_20	RECOMMENDER	user_1512	Strongly agree	Strongly agree	25 - 34	Other	East Asian	Bachelor/4-year Degree	Unable to Work	Never been married	Liberal	Other	user_1513	2020-03-21 12:40:39.540978
+fourth_batch_21	RECOMMENDER	user_1514	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Protestant	user_1515	2020-03-21 13:03:24.503092
+fourth_batch_22	RECOMMENDER	user_1516	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Never been married	Conservative	Other	user_1517	2020-03-21 13:10:19.042961
+fourth_batch_23	RECOMMENDER	user_1518	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1519	2020-03-21 13:56:56.867768
+fourth_batch_24	RECOMMENDER	user_1283	Agree	Agree	25 - 34	Female	African	No Degree	Employed	Never been married	Moderate	Protestant	user_1520	2020-03-21 14:54:55.967171
+fourth_batch_25	RECOMMENDER	user_1521	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	"Professional Postgraduate Degree (Medical	 Law	 etc)"	Employed	Living with partner	Moderate	Atheist	user_1522	2020-03-21 14:57:28.429245
+fourth_batch_26	RECOMMENDER	user_1523	Neither agree nor disagree	Neither agree nor disagree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Conservative	Protestant	user_1524	2020-03-21 17:43:06.558884
+fourth_batch_27	RECOMMENDER	user_1523	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Conservative	Protestant	user_1525	2020-03-21 18:12:27.089484
+fifth_batch_0	RECOMMENDER	user_1419	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1526	2020-03-23 07:18:40.535984
+fifth_batch_1	RECOMMENDER	user_1419	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1527	2020-03-23 08:00:17.063652
+fifth_batch_2	RECOMMENDER	user_1528	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_1529	2020-03-23 08:26:56.460072
+fifth_batch_3	RECOMMENDER	user_1530	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Liberal	Other	user_1419	2020-03-23 08:57:04.146171
+fifth_batch_4	RECOMMENDER	user_1531	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Unable to Work	Married	Moderate	Protestant	user_1532	2020-03-23 09:40:29.756587
+fifth_batch_5	RECOMMENDER	user_1533	Agree	Agree	25 - 34	Female	Caucasian	Doctorate	Employed	Married	Moderate	Jewish	user_1534	2020-03-23 09:56:41.631109
+fifth_batch_6	RECOMMENDER	user_1535	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Associate Degree	Employed	Married	Moderate	Protestant	user_1536	2020-03-23 10:10:32.087639
+fifth_batch_7	RECOMMENDER	user_1537	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Divorced	Moderate	Roman Catholic	user_1538	2020-03-23 10:33:15.751397
+fifth_batch_8	RECOMMENDER	user_1539	Strongly agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Separated	Moderate	Mormon	user_1540	2020-03-23 10:48:11.201999
+fifth_batch_9	RECOMMENDER	user_1426	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Homemaker	Married	Conservative	Protestant	user_1383	2020-03-23 11:45:44.756087
+fifth_batch_10	RECOMMENDER	user_1541	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Other	user_1542	2020-03-23 11:46:12.681690
+fifth_batch_11	RECOMMENDER	user_1499	Agree	Agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Living with partner	Moderate	Protestant	user_1543	2020-03-23 12:56:35.925035
+fifth_batch_12	RECOMMENDER	user_1544	Strongly agree	Strongly agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Roman Catholic	user_1545	2020-03-23 12:56:44.308917
+fifth_batch_13	RECOMMENDER	user_1546	Strongly agree	Strongly agree	25 - 34	Male	East Asian	Bachelor/4-year Degree	Unable to Work	Never been married	Liberal	Atheist	user_1547	2020-03-23 15:47:19.535744
+fifth_batch_14	RECOMMENDER	user_1548	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Roman Catholic	user_1549	2020-03-23 17:16:22.094968
+fifth_batch_15	RECOMMENDER	user_1550	Strongly agree	Strongly agree	25 - 34	Female	Caucasian	High School/GED	Employed	Never been married	Liberal	Other	user_1551	2020-03-23 17:18:32.384701
+fifth_batch_16	RECOMMENDER	user_1552	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Roman Catholic	user_1553	2020-03-23 19:37:35.468398
+fifth_batch_17	RECOMMENDER	user_1554	Strongly agree	Agree	18 - 24	Female	Caucasian	High School/GED	University Student	Never been married	Conservative	Protestant	user_1555	2020-03-23 19:43:20.040694
+fifth_batch_18	RECOMMENDER	user_1556	Strongly agree	Agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Liberal	Atheist	user_1501	2020-03-23 19:53:23.876428
+fifth_batch_19	RECOMMENDER	user_828	Agree	Agree	45 - 54	Male	Caucasian	Vocational Training	Employed	Never been married	Moderate	Other	user_1557	2020-03-24 05:15:05.992660
+fifth_batch_20	RECOMMENDER	user_1419	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1558	2020-03-24 05:41:35.288394
+fifth_batch_21	RECOMMENDER	user_1559	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Vocational Training	Employed	Married	Conservative	Jewish	user_1560	2020-03-24 06:15:33.550872
+fifth_batch_22	RECOMMENDER	user_1419	Agree	Agree	25 - 34	Female	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Atheist	user_1561	2020-03-24 06:29:18.206618
+fifth_batch_23	RECOMMENDER	user_702	Strongly agree	Strongly agree	25 - 34	Male	Hispanic/Latino	Associate Degree	Employed	Living with partner	Liberal	Other	user_1562	2020-03-24 07:10:22.201554
+fifth_batch_24	RECOMMENDER	user_1544	Agree	Agree	35 - 44	Male	Caucasian	Master	Employed	Married	Moderate	Roman Catholic	user_1563	2020-03-24 07:16:23.978737
+fifth_batch_25	RECOMMENDER	user_1564	Strongly agree	Strongly agree	18 - 24	Female	Caucasian	Associate Degree	University Student	Never been married	Liberal	Atheist	user_1565	2020-03-24 09:55:28.251390
+fifth_batch_26	RECOMMENDER	user_1566	Agree	Strongly agree	35 - 44	Male	Caucasian	Bachelor/4-year Degree	Employed	Living with partner	Conservative	Protestant	user_1567	2020-03-24 10:08:11.439532
+fifth_batch_27	RECOMMENDER	user_1523	Agree	Agree	18 - 24	Female	Caucasian	Bachelor/4-year Degree	University Student	Never been married	Conservative	Protestant	user_1568	2020-03-24 10:34:49.683078
+fifth_batch_29	RECOMMENDER	user_1569	Strongly agree	Strongly agree	35 - 44	Female	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Other	user_1570	2020-03-24 11:35:20.453497
+fifth_batch_30	RECOMMENDER	user_1571	Strongly agree	Strongly agree	18 - 24	Female	African	High School/GED	Employed	Never been married	Moderate	Other	user_1572	2020-03-24 12:08:34.867684
+fifth_batch_31	RECOMMENDER	user_1547	Strongly agree	Strongly agree	18 - 24	Male	South Asian	High School/GED	Employed	Never been married	Moderate	Other	user_1573	2020-03-24 12:36:08.988084
+fifth_batch_32	RECOMMENDER	user_1574	Disagree	Disagree	25 - 34	Male	Caucasian	Associate Degree	Employed	Married	Moderate	Protestant	user_1575	2020-03-24 13:11:08.145704
+fifth_batch_33	RECOMMENDER	user_1576	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	Associate Degree	Employed	Never been married	Liberal	Other	user_1577	2020-03-24 16:16:20.105606
+fifth_batch_34	RECOMMENDER	user_1578	Strongly agree	Strongly agree	25 - 34	Male	Caucasian	High School/GED	Employed	Married	Moderate	Atheist	user_1579	2020-03-24 19:52:07.678009
+sixth_batch_0	RECOMMENDER	user_1398	Strongly disagree	Disagree	35 - 44	Male	African	Associate Degree	Employed	Married	Liberal	Muslim	user_1580	2020-03-25 05:18:51.839345
+sixth_batch_1	RECOMMENDER	user_1581	Strongly agree	Strongly agree	45 - 54	Male	Caucasian	Bachelor/4-year Degree	Employed	Married	Moderate	Protestant	user_1582	2020-03-25 05:27:13.182937
+sixth_batch_2	RECOMMENDER	user_1267	Agree	Agree	25 - 34	Male	Caucasian	Bachelor/4-year Degree	Employed	Never been married	Conservative	Roman Catholic	user_1532	2020-03-25 09:18:58.547356
+sixth_batch_3	RECOMMENDER	user_1583	Strongly agree	Strongly agree	18 - 24	Male	Caucasian	High School/GED	University Student	Never been married	Moderate	Protestant	user_1584	2020-03-25 11:23:25.206251
+sixth_batch_4	RECOMMENDER	user_1585	Agree	Agree	25 - 34	Male	Caucasian	No Degree	Retired	Widowed	Conservative	Buddhist	user_1586	2020-03-25 12:47:28.223689
+sixth_batch_5	RECOMMENDER	user_1587	Agree	Agree	55 - 74	Male	Caucasian	Master	Employed	Married	Moderate	Protestant	user_1588	2020-03-25 12:52:39.280817
+sixth_batch_6	RECOMMENDER	user_1589	Strongly agree	Agree	35 - 44	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Other	user_1590	2020-03-25 16:28:24.855628
+sixth_batch_7	RECOMMENDER	user_1589	Strongly agree	Agree	35 - 44	Male	Hispanic/Latino	Associate Degree	Employed	Never been married	Moderate	Other	user_1591	2020-03-25 19:01:43.666688
+sixth_batch_8	RECOMMENDER	user_1592	Agree	Agree	25 - 34	Female	South Asian	Bachelor/4-year Degree	Employed	Never been married	Liberal	Buddhist	user_1593	2020-03-25 20:48:44.109016
