@@ -20,13 +20,10 @@ We provide the code for our dialog model.
 Model weights can be downloaded [here](https://drive.google.com/drive/folders/1ccpT7-e8yGHsJk1L2RJDmZVUTNAWSRdb?usp=sharing)
 
 ## Citation
+```
 @inproceedings{hayati-etal-2020-inspired,
-    title = "{INSPIRED}: Toward Sociable Recommendation Dialog Systems",
-    author = "Hayati, Shirley Anugrah  and
-      Kang, Dongyeop  and
-      Zhu, Qingxiaoyang  and
-      Shi, Weiyan  and
-      Yu, Zhou",
+    title = "INSPIRED: Toward Sociable Recommendation Dialog Systems",
+    author = "Hayati, Shirley Anugrah  and Kang, Dongyeop  and Zhu, Qingxiaoyang  and Shi, Weiyan  and Yu, Zhou",
     booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
     month = nov,
     year = "2020",
@@ -35,6 +32,7 @@ Model weights can be downloaded [here](https://drive.google.com/drive/folders/1c
     url = "https://www.aclweb.org/anthology/2020.emnlp-main.654",
     pages = "8142--8152",
 }
+```
 
 ## Contact
 Shirley Anugrah Hayati - sweetpineappleforest@gmail.com
